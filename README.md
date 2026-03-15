@@ -79,11 +79,16 @@ streamlit run app/main.py
 - **is_active**: Boolean flag indicating if a push occurred in the last 90 days.
 - **language_diversity**: Count of unique primary languages used across a developer's portfolio.
 
-## AI Classification Implementation
-We chose **Option B: Classification** as our AI integration task.
-- **Script**: src/classification/industry_classifier.py
-- **Methodology**: The classifier receives the repo name, description, primary language, topics, and up to the first 2000 characters of the README.md.
-- **Model**: Instructed gpt-4-turbo-preview with explicit system prompts to only map to the 21 Peruvian CIIU codes, enforcing JSON output formatting for database integrity and confidence levels. 
+## AI Agent Integration (Requirement 10)
+We implemented **Option B: Classification Agent**, an autonomous AI system capable of self-directed research.
+- **Agent Code**: [src/agents/classification_agent.py](src/agents/classification_agent.py)
+- **Demo Script**: [scripts/agent_demo.py](scripts/agent_demo.py)
+- **Architecture**:
+  - **Autonomy**: The agent receives a repo name/description and decides for itself if it needs more data.
+  - **Tool Use**: Equipped with 'get_readme' and 'get_languages' tools to fetch live data from the GitHub API via the 'RepoExtractor'.
+  - **Reasoning**: Every decision includes a mandatory 'reasoning' field returned by the model.
+  - **Error Handling**: Uses fallback mechanisms and structured tool validation to prevent crashes.
+  - **Logging**: Full internal logging of agent thoughts and tool calls via 'loguru'.
 
 ## Limitations
 1. **Data Bias**: GitHub Search by location:peru completely excludes developers who leave their profile location empty.
@@ -93,3 +98,4 @@ We chose **Option B: Classification** as our AI integration task.
 ## Author Information
 - **Name**: G ALEJANDRA ROJAS
 - **Date**: March 2026
+
