@@ -15,6 +15,7 @@ class UserMetricsCalculator:
             "name": user.get("name", ""),
             "location": user.get("location", ""),
             "company": user.get("company", ""),
+            "created_at": user.get("created_at", ""),
         }
 
         # Activity Metrics
