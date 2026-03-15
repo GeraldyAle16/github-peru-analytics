@@ -22,12 +22,19 @@ GitHub Peru Analytics is a comprehensive data engineering, AI, and visualization
 - **Metrics Calculator**: Aggregates Data into users.csv and calculates H-index and Impact Scores.
 - **Streamlit Dashboard**:
   - Overview: General Ecosystem Stats
-  - Developers: Searchable table with dynamic Plotly charts.
-  - Repositories: Repo browser.
-  - Industries: AI Classification breakdown visually mapped.
-  - Languages: Technology distribution charts.
+  ![Overview](demo/screenshots/overview.png)
 
-*(Screenshots of each page are located in the demo/screenshots directory).*
+  - Developers: Searchable table with dynamic Plotly charts.
+  ![Developers](demo/screenshots/developers.png)
+
+  - Repositories: Repo browser.
+  ![Repositories](demo/screenshots/repositories.png)
+
+  - Industries: AI Classification breakdown visually mapped.
+  ![Industries](demo/screenshots/industries.png)
+
+  - Languages: Technology distribution charts.
+  ![Languages](demo/screenshots/languages.png)
 
 ## Installation
 
@@ -48,7 +55,8 @@ Copy the template to create your secure .env file:
 cp .env.example .env
 `
 Open .env and configure:
-- GITHUB_TOKEN: Add your GitHub Personal Access Token (classic) with ead:user and public_repo scopes.
+- GITHUB_TOKEN: Add your GitHub Personal Access Token (classic) with 
+ead:user and public_repo scopes.
 - OPENAI_API_KEY: Add your OpenAI Key (used for GPT-4 classification).
 
 ## Usage
@@ -91,11 +99,11 @@ We implemented **Option B: Classification Agent**, an autonomous AI system capab
   - **Logging**: Full internal logging of agent thoughts and tool calls via 'loguru'.
 
 ## Limitations
-1. **Data Bias**: GitHub Search by location:peru completely excludes developers who leave their profile location empty.
+1. **Data Bias**: GitHub Search by location:Peru completely excludes developers who leave their profile location empty.
 2. **API Bottlenecks**: Extracting the entire nation's data natively via REST API is incredibly slow due to the 5k/hr strict limit. A full backup would take days.
 3. **AI Hallucinations**: Repositories without a README or adequate descriptions could result in inaccurate (or overly generic Category J) classifications by the model.
 
 ## Author Information
-- **Name**: G ALEJANDRA ROJAS
+- **Name**: GERALDY ALEJANDRA ROJAS LÓPEZ
 - **Date**: March 2026
 
