@@ -1,0 +1,1001 @@
+login,name,location,company,total_repos,total_stars_received,total_forks_received,avg_stars_per_repo,account_age_days,repos_per_year,followers,following,follower_ratio,h_index,impact_score,primary_language_1,primary_language_2,primary_language_3,language_diversity,industries_served,primary_industry,has_readme_pct,has_license_pct,total_open_issues,days_since_last_push,is_active
+adagio,Edu F,"Lima, Peru",HartasCuerdas,81,17,12,0.21,6531,4.53,83,211,0.39,2,124,Python,Swift,Java,16,3,J,0.0,0.01,40,0.0,True
+gnrfan,Antonio Ognio,"Lima, Peru",Bit Zeppelin S.A.C.,20,56,46,2.8,6546,1.12,73,2,36.5,4,221,Python,Ruby,JavaScript,3,2,J,0.0,0.35,11,2449.0,False
+soad241,Jose Penarrieta,Peru,My Company,17,88,12,5.18,6505,0.95,8,0,8.0,7,120,Python,,,1,3,J,0.0,0.53,0,4696.0,False
+jkelvie,John Kelvie,"Lima, Peru",@bespoken ,16,5,0,0.31,6450,0.91,44,1,44.0,1,49,JavaScript,Python,Dockerfile,4,2,J,0.0,0.19,3,261.0,False
+xenda,Xenda,"Lima, Peru",Xenda,69,105,24,1.52,6431,3.92,79,17,4.65,5,232,Ruby,JavaScript,PHP,5,5,J,0.0,0.12,522,3770.0,False
+marsam,Mario Rodas,Peru,,11,17,8,1.55,6202,0.65,207,33,6.27,2,240,Nix,Python,Ruby,3,1,J,0.0,0.09,2,0.0,True
+rppgitadmin,GrupoRPP S.A.,"Lima, Peru",GrupoRPP S.A.,0,0,0,0.0,6210,0.0,7,0,7.0,0,7,,,,0,0,,0.0,0.0,0,,False
+dmotta,David Motta,"Lima, Peru",Banco de Credito del Peru,14,0,0,0.0,6147,0.83,12,4,3.0,0,12,Java,Go,HTML,3,0,,0.0,0.21,0,860.0,False
+ex,me,Lima - Peru,,15,104,25,6.93,6105,0.9,31,18,1.72,2,185,C,C++,ActionScript,10,3,J,0.0,0.4,1,9.0,True
+hdezela,Hugo De Zela,"Lima, Peru",,2,9,5,4.5,6104,0.12,6,0,6.0,2,25,C++,,,1,1,J,0.0,1.0,0,3494.0,False
+percy711,Percy Almeyda Lévano,"Peru, Lima",,1,1,0,1.0,6120,0.06,5,0,5.0,1,6,,,,0,1,J,0.0,0.0,0,,False
+roxminu,Roxana Castaneda,"Lima, Peru",Diseño Web Perú de Roxana Castañeda,0,0,0,0.0,6091,0.0,5,2,2.5,0,5,,,,0,0,,0.0,0.0,0,,False
+josedante,josedante,"Lima, Peru",josedante.com,6,3,0,0.5,6093,0.36,5,4,1.25,1,8,Python,CSS,,2,2,J,0.0,0.5,5,65.0,True
+jcano88184,Javier Cano,"Lima, Peru",SoporteLinux.net,3,0,0,0.0,6090,0.18,4,2,2.0,0,4,Shell,C,,2,0,,0.0,0.0,0,952.0,False
+CoreyKaylor,Corey Kaylor,"Lima, Peru",,7,492,101,70.29,6039,0.42,67,5,13.4,4,761,C#,Go,Lua,3,1,J,0.0,0.71,3,51.0,True
+grover-cordova,Grover Córdova,"Lima, Peru",,0,0,0,0.0,6049,0.0,7,12,0.58,0,7,,,,0,0,,0.0,0.0,0,,False
+denniscastro,Dennis Castro,Lima-Peru,Freelancer,1,0,0,0.0,6021,0.06,8,6,1.33,0,8,JavaScript,,,1,0,,0.0,0.0,0,2942.0,False
+hdanniel,Hector Paz,"Lima, Peru",,18,11,9,0.61,6020,1.09,8,1,8.0,2,37,Go,HCL,Python,4,1,J,0.0,0.22,1,1584.0,False
+santos88,Santos Ramon,"Lima, Peru",,13,3,0,0.23,5984,0.79,18,28,0.64,1,21,Swift,HTML,,2,1,J,0.0,0.08,0,753.0,False
+leleonb,Luis Enrique León,"Lima, Peru",,8,0,0,0.0,5999,0.49,4,3,1.33,0,4,Java,,,1,0,,0.0,0.0,0,1706.0,False
+nadla20xx,,peru,,4,1,0,0.25,5979,0.24,4,0,4.0,1,5,PHP,,,1,1,J,0.0,0.0,0,310.0,False
+avelasquezn,Angel Velasquez,"Lima, Peru",,46,5,2,0.11,5960,2.82,173,2,86.5,2,182,Java,Ruby,HTML,7,1,J,0.0,0.02,2,251.0,False
+raymi-sm,Raymi Saldomando,"Lima, Peru",,39,10,6,0.26,5958,2.39,99,13,7.62,1,121,JavaScript,HTML,CSS,3,3,J,0.0,0.03,3,2084.0,False
+r3xakead0,Afu Tse,"Lima, Peru",Chainiz,75,9,8,0.12,5965,4.59,17,32,0.53,1,42,C#,JavaScript,HCL,11,3,J,0.0,0.35,72,9.0,True
+cesar00015,Cesar Augusto Soto Caballero,"Lima, Peru",,2,0,0,0.0,5920,0.12,24,7,3.43,0,24,,,,0,0,,0.0,1.0,0,1983.0,False
+ricdex,Ricardo Avila,Peru,BCP,24,6,0,0.25,5930,1.48,17,76,0.22,1,23,Java,JavaScript,Python,9,2,J,0.0,0.12,6,8.0,True
+Anton1985,Antonio Rosas,Lima-Peru,Avantica Technologies,12,8,0,0.67,5937,0.74,6,5,1.2,1,14,Ruby,JavaScript,,2,3,J,0.0,0.0,0,435.0,False
+raul782,Raul Rodriguez,"Lima,Peru",BesselSolutions,7,0,0,0.0,5904,0.43,59,153,0.39,0,59,TypeScript,JavaScript,Dart,5,0,,0.0,0.29,17,19.0,True
+dannymontalvo,Danny Montalvo,Peru,,2,0,0,0.0,5895,0.12,3,3,1.0,0,3,,,,0,0,,0.0,0.0,0,895.0,False
+merunga,Mariano Crowe,"Lima, Peru",@lastraperas @escuelab @laboratoria,44,48,71,1.09,5859,2.74,99,7,14.14,4,289,JavaScript,CSS,HTML,5,6,J,0.0,0.25,81,618.0,False
+eporroa,Erik Porroa,"Lima, Peru",,11,2,4,0.18,5869,0.68,41,57,0.72,1,51,TypeScript,JavaScript,HTML,5,0,,0.0,0.36,15,192.0,False
+sjurado,Sandro Jurado,"Lima, Peru",,0,0,0,0.0,5861,0.0,7,0,7.0,0,7,,,,0,0,,0.0,0.0,0,,False
+newiclus,Junihor Moran,"Lima, Peru",Freelancer,27,2,1,0.07,5843,1.69,14,3,4.67,1,18,JavaScript,TypeScript,HTML,6,0,,0.0,0.15,6,3.0,True
+hablutzel1,Jaime Hablutzel,Peru,WISeKey,23,16,6,0.7,5832,1.44,10,67,0.15,1,38,Ruby,Shell,Java,8,1,K,0.0,0.0,4,9.0,True
+obisax,Franco Paredes,Peru,Sumeria Consulting,0,0,0,0.0,5835,0.0,6,2,3.0,0,6,,,,0,0,,0.0,0.0,0,,False
+jbenito,Jose,"Lima, Peru",Nikamcorp,1,1,0,1.0,5852,0.06,5,1,5.0,1,6,,,,0,0,,0.0,0.0,0,4995.0,False
+jhonatanmt83,Jhonatan Mosquera Tabra,Huancayo - Peru,,20,20,21,1.0,5821,1.25,7,2,3.5,2,69,Python,JavaScript,TypeScript,7,2,Q,0.0,0.2,3,109.0,False
+Malcon,Malcon Flores Hurtado,Lima - Peru,,2,0,0,0.0,5826,0.13,4,0,4.0,0,4,HTML,CSS,,2,0,,0.0,0.0,0,254.0,False
+bitzeppelin,Bit Zeppelin,Lima - Peru,,9,22,15,2.44,5813,0.57,4,0,4.0,3,56,Python,Java,C,6,1,J,0.0,0.44,0,4447.0,False
+utcl95,Juan Aquino,Peru,Atman Inc,7,1,0,0.14,5821,0.44,3,0,3.0,1,4,Java,Python,C#,4,0,,0.0,0.43,0,2688.0,False
+mery,Mery,Peru,,1,1,0,1.0,5821,0.06,3,0,3.0,1,4,Python,,,1,0,,0.0,0.0,0,5808.0,False
+joseschmidt,Jose Schmidt,Peru Illinois ,James Hardie Building Products,10,0,0,0.0,5787,0.63,9,7,1.29,0,9,Ruby,Shell,JavaScript,3,0,,0.0,0.2,2,2658.0,False
+necudeco,Renato Amaya,"Trujillo, Peru",Clever Clouds,19,2,1,0.11,5790,1.2,7,0,7.0,1,11,JavaScript,Shell,HTML,5,0,,0.0,0.63,0,552.0,False
+gianmape,Giancarlo Martinez,"Lima, Peru",SAP,4,0,0,0.0,5796,0.25,3,0,3.0,0,3,Java,Swift,,2,0,,0.0,0.0,0,1310.0,False
+kipu,Francisco Mariategui,"Lima, Peru",,1,0,0,0.0,5780,0.06,3,1,3.0,0,3,,,,0,0,,0.0,0.0,0,4672.0,False
+emedinaa,Eduardo José Medina Alfaro,"Lima, Peru",Mapsalud,155,878,219,5.66,5758,9.83,506,761,0.66,9,1822,Java,Kotlin,JavaScript,9,5,J,0.0,0.19,15,361.0,False
+krystalcode,Dimitris Bozelos,"Cuzco, Peru",,94,21,9,0.22,5756,5.96,21,0,21.0,2,60,PHP,Shell,CSS,9,2,G,0.0,0.23,49,13.0,True
+kaliman,Rafael,"lima, peru",,4,0,0,0.0,5758,0.25,4,1,4.0,0,4,Java,TypeScript,,2,0,,0.0,0.25,0,239.0,False
+marupanta,Maru Panta,"Lima, Peru",Visor Peru,2,2,0,1.0,5763,0.13,3,0,3.0,1,5,,,,0,0,,0.0,0.0,0,,False
+cesarunipe,Cesar,Lima-Peru,,0,0,0,0.0,5739,0.0,2,0,2.0,0,2,,,,0,0,,0.0,0.0,0,,False
+gracebasilior,Grace Basilio,Peru,,1,1,0,1.0,5740,0.06,2,0,2.0,1,3,PHP,,,1,0,,0.0,0.0,0,5740.0,False
+puentesarrin,Jorge Puente-Sarrín,Peru,@RebelMouseTeam ,12,169,40,14.08,5733,0.76,49,24,2.04,5,298,Python,CSS,C#,4,1,J,0.0,0.25,8,1517.0,False
+neofutur,Neo Futur,Peru,http://ww7.pe,13,34,18,2.62,5726,0.83,31,56,0.55,3,101,PHP,JavaScript,C++,4,2,J,0.0,0.46,1,649.0,False
+jcyovera,Juan Carlos,Lima - Peru,Developer,39,11,17,0.28,5721,2.49,25,4,6.25,2,70,TypeScript,JavaScript,HTML,3,2,P,0.0,0.28,113,884.0,False
+marcosluis2186,Marcos Ortiz,"Lima, Peru",X-Team,2,0,0,0.0,5722,0.13,20,105,0.19,0,20,HTML,,,1,0,,0.0,0.5,0,401.0,False
+jdamian,Juan Carlos,"Lima, Peru",,14,1,0,0.07,5710,0.89,20,114,0.18,1,21,JavaScript,Go,Java,7,0,,0.0,0.36,19,104.0,False
+PachaTech,Pachatech,"Lima, Peru",Pachatech Capital Management,5,24,7,4.8,5720,0.32,7,16,0.44,1,45,Jupyter Notebook,Mathematica,Python,3,1,K,0.0,0.0,0,259.0,False
+gabriel-rivero,Gabriel Rivero,"Lima, Peru",@crunchyroll ,4,1,1,0.25,5717,0.26,4,2,2.0,1,7,JavaScript,,,1,0,,0.0,0.25,0,222.0,False
+jmcastagnetto,Jesus M. Castagnetto,Peru,,75,287,103,3.83,5690,4.81,167,37,4.51,8,660,R,PHP,HTML,8,5,M,0.0,0.68,3,9.0,True
+chafarleston,charles paul requena palomino,sullana-piura Peru,@RealComputerSAC,24,9,53,0.38,5675,1.54,20,28,0.71,1,135,Python,Shell,JavaScript,6,1,G,0.0,0.33,16,15.0,True
+phyluis,Luis Alberto Quispe Saltachin,peru,,1,0,0,0.0,5696,0.06,2,1,2.0,0,2,Java,,,1,0,,0.0,0.0,0,702.0,False
+davoateam,david rivas,Peru,ateam,0,0,0,0.0,5680,0.0,2,0,2.0,0,2,,,,0,0,,0.0,0.0,0,,False
+ldiego73,Luis Diego,Peru,,32,27,10,0.84,5664,2.06,25,3,8.33,4,72,TypeScript,JavaScript,Shell,11,2,J,0.0,0.22,117,205.0,False
+cguerrac,Carlos,"Lima, Peru",,1,1,0,1.0,5652,0.06,3,0,3.0,1,4,,,,0,0,,0.0,0.0,0,,False
+claudiaflor31,Claudia Flores Verano,"Lima, Peru",Prensa Popular SAC,1,1,0,1.0,5653,0.06,2,0,2.0,1,3,,,,0,0,,0.0,0.0,0,,False
+germanmartinez,Germán Martínez,"Lima, Peru",Lúcuma labs,0,0,0,0.0,5618,0.0,21,2,10.5,0,21,,,,0,0,,0.0,0.0,0,,False
+jfabian,Jesus Fabian Cubas,"Lima, Peru",Carbono,12,10,2,0.83,5637,0.78,17,17,1.0,2,31,Python,PHP,Java,4,2,J,0.0,0.17,1,2322.0,False
+justkoki,Jorge,"Lima, Peru",,5,4,0,0.8,5622,0.32,2,0,2.0,1,6,Ruby,,,1,0,,0.0,0.0,0,996.0,False
+jcjavadeveloper,Juan Carlos Espinoza Valera,Lima - Peru,Syrius Data S.A.,0,0,0,0.0,5627,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+giancorzo,Giancarlo Corzo,"Lima, Peru",@culqi,26,11,21,0.42,5584,1.7,107,24,4.46,2,160,Ruby,HTML,JavaScript,6,2,J,0.0,0.08,9,1187.0,False
+rmaceissoft,Reiner Marquez,"Lima, Peru",,39,108,18,2.77,5602,2.54,20,10,2.0,5,164,Python,Ruby,HTML,7,4,J,0.0,0.18,10,165.0,False
+viasoluciones,viasoluciones ®,"Lima, PERU",viasoluciones ®,3,0,0,0.0,5604,0.2,10,29,0.34,0,10,PHP,,,1,0,,0.0,0.0,0,2325.0,False
+jcguzmanr,jcguzmanr,"Lima, Peru",,23,0,0,0.0,5588,1.5,3,9,0.33,0,3,TypeScript,Swift,Python,5,0,,0.0,0.13,1,1.0,True
+lopeznoam,Noam López Villanes,Peru,PUCP,2,1,0,0.5,5603,0.13,2,2,1.0,1,3,CSS,,,1,0,,0.0,0.0,0,3707.0,False
+Jarlac,Carlos Muñoz Rodriguez,"Lima, Peru",Infonet-Consulting S.A.C,1,1,0,1.0,5594,0.07,1,0,1.0,1,2,,,,0,0,,0.0,0.0,0,,False
+emadridm,Enrique Madrid,Lima - Peru,,5,0,0,0.0,5553,0.33,7,19,0.37,0,7,TypeScript,Emacs Lisp,,2,0,,0.0,0.0,0,18.0,True
+ederrafo,Eder Rafo Jose Pariwana Espinhal,Lima Peru,ederrafo,34,1,2,0.03,5580,2.22,2,10,0.2,1,7,PHP,Java,JavaScript,7,0,,0.0,0.12,2,338.0,False
+jcaballero,Jorge Caballero,Peru,GMatic SAC,3,0,0,0.0,5553,0.2,2,7,0.29,0,2,Lua,,,1,0,,0.0,0.33,0,456.0,False
+joseareche,Jose Areche,Peru,Compuservic La Molina,3,0,0,0.0,5575,0.2,1,1,1.0,0,1,,,,0,0,,0.0,0.0,41,240.0,False
+enriquer,Enrique R Torre,"lima, peru",solanum labs,0,0,0,0.0,5579,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+jacostach,Juan C Acosta Ch,peru,acostas,1,2,0,2.0,5562,0.07,1,0,1.0,1,3,,,,0,1,G,0.0,0.0,0,5396.0,False
+EdmundoDantes,The Joshua Tree,Lima peru,Pathfinder Club,0,0,0,0.0,5551,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+juaneladio,Juan Eladio Sanchez Rosas,"Lima, Peru",Ensoluciona,14,106,120,7.57,5547,0.92,76,36,2.11,4,422,HTML,JavaScript,PHP,4,4,H,0.0,0.79,10,1167.0,False
+zeroark,Chris Leon,"Lima, Peru",Tranzact,12,2,1,0.17,5524,0.79,14,6,2.33,1,18,C#,CSS,Batchfile,5,0,,0.0,0.25,1,2641.0,False
+lgonzales,Jose Luis Huamani Gonzales,"Lima, Peru",LGTics Solutions,1,1,0,1.0,5528,0.07,5,0,5.0,1,6,PHP,,,1,0,,0.0,0.0,0,5324.0,False
+ccontardo,Carlos Contardo,Lima - Peru,,1,0,0,0.0,5521,0.07,2,2,1.0,0,2,,,,0,0,,0.0,0.0,0,1675.0,False
+muleros,Red Científica Peruana,"Lima, Peru",,3,0,2,0.0,5525,0.2,1,0,1.0,0,5,Python,,,1,0,,0.0,0.0,0,3504.0,False
+ademir99,Ademir,"Cusco, Peru",,0,0,0,0.0,5521,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+anrk0,Robert Vivar,Peru,,11,0,0,0.0,5533,0.73,1,2,0.5,0,1,JavaScript,C#,Java,5,0,,0.0,0.0,6,140.0,False
+LMCaballero,Luis Miguel Caballero,"Lima, Peru",,0,0,0,0.0,5531,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+dandiazortiz,Dan Diaz,Lima Peru,,0,0,0,0.0,5549,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+idatux,IDATUX,Peru,,3,3,0,1.0,5537,0.2,1,0,1.0,1,4,CSS,,,1,0,,0.0,0.67,0,4581.0,False
+emiliusvgs,Emilio Vegas ,Peru,,6,9,5,1.5,5507,0.4,13,1,13.0,2,32,JavaScript,Java,,2,1,R,0.0,0.17,0,5.0,True
+42pe,Diego Ferreyra,Peru,,9,0,1,0.0,5493,0.6,7,6,1.17,0,9,TypeScript,JavaScript,HTML,5,0,,0.0,0.22,18,13.0,True
+Isxida,Israel Romero,"Lima, Peru",,7,4,3,0.57,5501,0.46,7,4,1.75,1,17,JavaScript,CSS,Java,4,1,J,0.0,0.14,0,8.0,True
+mapoxa,Maria del Pilar,Peru,Tekton Labs,3,1,0,0.33,5494,0.2,3,2,1.5,1,4,Python,,,1,0,,0.0,0.0,0,3462.0,False
+polchis,polchis,Peru,symfony,2,1,0,0.5,5504,0.13,2,1,2.0,1,3,JavaScript,CSS,,2,0,,0.0,0.0,0,3958.0,False
+tony1585,Anthony Alvarez,Peru,Bitjoins SAC,9,0,0,0.0,5508,0.6,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,1244.0,False
+hawkthalas,Hawkthalas,Peru,NASPERU,1,0,0,0.0,5509,0.07,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,2003.0,False
+emacorp,Eduardo,Lima Peru,EmaCorp,1,0,0,0.0,5515,0.07,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,4300.0,False
+Wesitos,Pedro Palacios Avila,"Lima, Peru",,31,10,11,0.32,5489,2.06,33,26,1.27,2,65,JavaScript,Python,Emacs Lisp,9,2,J,0.0,0.13,5,1057.0,False
+kryjex,Julio Paredes,"Lima, Peru",,1,0,0,0.0,5468,0.07,10,10,1.0,0,10,Dockerfile,,,1,0,,0.0,1.0,0,2389.0,False
+Kenji-K,Kenji,"Lima, Peru",,5,11,4,2.2,5474,0.33,8,0,8.0,2,27,C#,Jupyter Notebook,,2,1,R,0.0,1.0,2,2355.0,False
+diegouriarte,Diego Uriarte,Peru,,12,1,0,0.08,5474,0.8,5,0,5.0,1,6,HTML,JavaScript,TeX,5,0,,0.0,0.08,0,233.0,False
+ezdookie,Brian QL,"Lima, Peru",,11,1,0,0.09,5468,0.73,5,2,2.5,1,6,Python,JavaScript,Go,3,0,,0.0,0.45,7,432.0,False
+felixmiranda,felix miranda ,Peru,,34,1,6,0.03,5463,2.27,5,15,0.33,1,18,C#,JavaScript,HTML,3,0,,0.0,0.18,17,124.0,False
+RaulEspinoza,Raul Espinoza,Callao-Peru,,0,0,0,0.0,5486,0.0,2,0,2.0,0,2,,,,0,0,,0.0,0.0,0,,False
+germannmartinez,Germán Martínez,"Lima, Peru",Lúcuma labs,0,0,0,0.0,5478,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+alekz21,Alex Josue,Peru,GMD,0,0,0,0.0,5484,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+fabiola000,fabiola000,piura peru,fabiola matkertin,1,1,0,1.0,5463,0.07,1,0,1.0,1,2,,,,0,0,,0.0,0.0,0,,False
+jaimersb,Jaime Sotomayor,"Lima, Peru",,0,0,0,0.0,5490,0.0,1,1,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+JosueArquimedes,Josuearquimedes,Lima - Peru,www.elmedioambiente34K.com,0,0,0,0.0,5482,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+tasper,Luis,"Lima, Peru",Eco Logic EIRL,0,0,0,0.0,5469,0.0,1,2,0.5,0,1,,,,0,0,,0.0,0.0,0,,False
+dmanchego,Daniel,"Lima, Peru",Era Azul ,1,0,0,0.0,5471,0.07,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,1388.0,False
+roquecasanova,roque casanova,lima-peru,http://www.facebook.com/EmOxiThoO,0,0,0,0.0,5480,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+mario21ic,Mario IC,Lima - Peru,,330,61,144,0.18,5443,22.13,139,496,0.28,3,488,Python,HCL,Shell,32,1,J,0.0,0.75,90,2.0,True
+nxvl,Nicolas Valcarcel,Lima - Peru,@SemanticSugar ,19,77,20,4.05,5444,1.27,31,0,31.0,1,148,Python,Go,C,5,1,J,0.0,0.63,26,2172.0,False
+ivoscc,Ivo,Peru,,16,16,8,1.0,5445,1.07,24,28,0.86,3,56,Python,Rust,JavaScript,8,2,J,0.0,0.12,0,1192.0,False
+yanicklandry,Yanick Landry,"Lima, Peru",,22,7,12,0.32,5437,1.48,12,14,0.86,1,43,JavaScript,Ruby,Shell,6,1,J,0.0,0.23,4,7.0,True
+luis5m,,Lima - Peru,,1,1,11,1.0,5435,0.07,4,4,1.0,1,27,JavaScript,,,1,0,,0.0,0.0,0,4980.0,False
+victorsanchezn,Victor Sanchez,"Trujillo, Peru",,0,0,0,0.0,5439,0.0,2,2,1.0,0,2,,,,0,0,,0.0,0.0,0,,False
+jeibrolls,jeibrolls,peru,jeib rolls,4,1,0,0.25,5444,0.27,1,2,0.5,1,2,,,,0,0,,0.0,0.0,0,1215.0,False
+customeractive,Aaron Archambault,"Peru, NY, USA","Customer Active, LLC",1,1,0,1.0,5447,0.07,1,0,1.0,1,2,Ruby,,,1,0,,0.0,0.0,0,5412.0,False
+joaquin2791,Joaquin Fuentes,Lima Peru,Dell EMC,1,0,0,0.0,5446,0.07,1,0,1.0,0,1,HTML,,,1,0,,0.0,0.0,0,2164.0,False
+vichamadoft,Rafael Reyna Camones,Peru,Vichamasoft.com,1,1,0,1.0,5435,0.07,1,0,1.0,1,2,,,,0,0,,0.0,0.0,0,5435.0,False
+robintux,Abraham Zamudio Chauca,Lima - Peru,GMMNS,37,60,27,1.62,5407,2.5,72,224,0.32,3,186,Python,Jupyter Notebook,R,6,3,O,0.0,0.32,0,7.0,True
+jubre,Junior Corman,Lima - Peru,@Interbank,34,14,3,0.41,5419,2.29,11,31,0.35,1,31,Java,Python,Groovy,7,1,J,0.0,0.0,3,994.0,False
+miguelquispe,Miguel Quispe,"Lima, Peru",,33,4,0,0.12,5415,2.22,9,28,0.32,1,13,JavaScript,TypeScript,C#,5,1,J,0.0,0.12,31,11.0,True
+indiegente,Jorge Bastidas,"Lima, Peru",,3,2,1,0.67,5410,0.2,6,10,0.6,1,10,Python,Java,,2,0,,0.0,0.33,1,200.0,False
+sing88,Carlos Sing Ramos,Peru,SingLabz,7,2,4,0.29,5402,0.47,4,8,0.5,1,14,JavaScript,,,1,0,,0.0,0.0,71,3915.0,False
+enzopolo,enzopolo,"lima, peru",geovista.space,0,0,0,0.0,5429,0.0,3,5,0.6,0,3,,,,0,0,,0.0,0.0,0,,False
+tohuma,Miguel Angel Cabada Gutierrez,Lima Peru,,5,0,0,0.0,5420,0.34,2,1,2.0,0,2,PHP,Java,Python,3,0,,0.0,0.8,0,1403.0,False
+XYOX,Christian Huamani Gutierrez,Arequipa Peru,,6,0,0,0.0,5401,0.41,2,0,2.0,0,2,JavaScript,SCSS,CSS,4,0,,0.0,0.17,0,153.0,False
+Nucleo,Centro de Investigacion Nucleo,"Lima, Peru",,3,1,0,0.33,5417,0.2,1,0,1.0,1,2,PHP,Python,,2,0,,0.0,0.33,2,4372.0,False
+edperez,Ed,Peru,,1,1,0,1.0,5402,0.07,1,0,1.0,1,2,,,,0,0,,0.0,0.0,0,,False
+374229,Liberty Travel,Peru,Liberty Travel,0,0,0,0.0,5427,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+jguerra42,Jorge Guerra Guerra,Lima Peru,UNMSM,1,1,0,1.0,5426,0.07,1,0,1.0,1,2,,,,0,0,,0.0,0.0,0,,False
+joelibaceta,Joel Ibaceta,"Lima, Peru",,207,2337,314,11.29,5380,14.04,647,1150,0.56,11,3612,Python,Ruby,Jupyter Notebook,21,7,J,0.0,0.26,119,0.0,True
+luismayta,Lucho Mayta,"Lima, Peru",SRE at @infosisArg,281,532,25,1.89,5394,19.01,336,1180,0.28,9,918,Makefile,JavaScript,Shell,17,7,J,0.0,0.55,1122,0.0,True
+RogerNatividad,Roger Natividad,"Lima, Peru",,28,61,82,2.18,5398,1.89,79,42,1.88,3,304,CSS,HTML,TypeScript,4,1,J,0.0,0.61,2,215.0,False
+orbital23,Paul,"Lima, Peru",Inetum,9,0,0,0.0,5387,0.61,13,24,0.54,0,13,Java,C#,,2,0,,0.0,0.0,0,1391.0,False
+jhonatantirado,Jhonatan Tirado,Peru,,79,2,6,0.03,5375,5.36,9,17,0.53,1,23,C#,Python,Java,10,0,,0.0,0.04,77,667.0,False
+alainno,Alain Alejo,Peru,Grupo Sistemas,29,3,1,0.1,5379,1.97,6,19,0.32,1,11,Jupyter Notebook,PHP,Java,7,0,,0.0,0.03,0,337.0,False
+gilberth,Gilberth,Peru,GYTECH,21,7,6,0.33,5388,1.42,6,3,2.0,2,25,JavaScript,TypeScript,Python,8,2,J,0.0,0.38,3,31.0,True
+alexsandovalv,Alex Sandoval,Peru-Lima,HPE,30,1,3,0.03,5388,2.03,4,32,0.12,1,11,Java,TypeScript,JavaScript,5,0,,0.0,0.07,1,9.0,True
+jronal,jronal,"Lima, peru",,13,3,1,0.23,5394,0.88,1,2,0.5,1,6,Java,,,1,0,,0.0,0.0,0,1045.0,False
+constructo,Andres Tremols,Peru,,0,0,0,0.0,5372,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+chegalvezm,Cesar Galvez,"Lima, Peru",Touch Consulting,1,0,0,0.0,5390,0.07,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,2112.0,False
+rimaterra,Rich,Peru,,1,0,0,0.0,5379,0.07,0,1,0.0,0,0,Python,,,1,0,,0.0,0.0,0,6.0,True
+kriminalxp,kriminalxp,Lima - Peru,,0,0,0,0.0,5379,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+pameri,Percy Ameri,LIMA-PERU,SENDA TI SOLUTIONS SAC,12,5,0,0.42,5391,0.81,0,0,0.0,1,5,JavaScript,Python,HTML,3,0,,0.0,0.17,0,3060.0,False
+lissetteganoza,Lissette,peru,Casa andina,1,0,0,0.0,5349,0.07,1,1,1.0,0,1,,,,0,0,,0.0,0.0,0,3384.0,False
+danielluyo,Daniel Luyo,Peru,,2,1,0,0.5,5357,0.14,1,0,1.0,1,2,JavaScript,TypeScript,,2,0,,0.0,0.5,1,27.0,True
+stormlabs,Stormlabs,"Arequipa, Peru",,2,4,2,2.0,5369,0.14,0,0,0.0,1,8,PHP,Python,,2,1,J,0.0,1.0,0,4788.0,False
+jdas1,Jhonny D. Alfaro,"Lima, Peru",,1,1,0,1.0,5344,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,,False
+bestmen51,carlos flores,peru,Eli D´fontaine,0,0,0,0.0,5355,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+PerfectMedia,,Peru,PerfectMedia SAC,1,1,0,1.0,5362,0.07,0,0,0.0,1,1,D,,,1,0,,0.0,0.0,0,5340.0,False
+theViru,Julio Avila,"Lima, Peru",,0,0,0,0.0,5363,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+Milhoras,Ivan Aguilar,Peru,Aguilar Rojas Consultores SAC,4,1,0,0.25,5349,0.27,0,1,0.0,1,1,,,,0,0,,0.0,0.0,0,1830.0,False
+jonathanchaveze,Jonathan Chavez,Peru,,0,0,0,0.0,5328,0.0,63,1,63.0,0,63,,,,0,0,,0.0,0.0,0,,False
+rubyperu,Ruby Peru,"Lima, Peru",,5,26,15,5.2,5337,0.34,12,0,12.0,2,68,CSS,Ruby,,2,1,J,0.0,0.0,15,589.0,False
+Dvex,Eduardo Cabrera Japa,Peru - Lima - Chorrillos,,14,10,7,0.71,5317,0.96,12,9,1.33,1,36,JavaScript,TypeScript,Vue,6,1,J,0.0,0.43,0,295.0,False
+ZeltaWeb,ZeltaWeb,"Lima,Peru",ZeltaWeb,0,0,0,0.0,5316,0.0,7,5,1.4,0,7,,,,0,0,,0.0,0.0,0,,False
+katlimruiz,Kat Lim Ruiz,Peru,@blastradius-ai,2,0,0,0.0,5312,0.14,4,2,2.0,0,4,Shell,Java,,2,0,,0.0,1.0,0,200.0,False
+zerazobz,Erick Asto Oblitas,"Arequipa, Peru",,25,0,0,0.0,5329,1.71,3,6,0.5,0,3,C#,Python,TypeScript,7,0,,0.0,0.72,29,1057.0,False
+jessicabrisila,Jessica,Peru,Conti,1,1,0,1.0,5319,0.07,2,1,2.0,1,3,Python,,,1,0,,0.0,0.0,0,5298.0,False
+LinuxEvangelist,Ricardo Llontop,Peru,,13,1,0,0.08,5332,0.89,1,2,0.5,1,2,JavaScript,Java,HCL,5,0,,0.0,0.0,2,1256.0,False
+Javiex,Javier Valdiviezo Bravo,Peru,,4,2,17,0.5,5310,0.27,1,3,0.33,1,37,PHP,CSS,,2,0,,0.0,0.25,0,2937.0,False
+amorante,Andrés Morante,"Lima, Peru",Developer & Consulting,2,0,0,0.0,5314,0.14,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4265.0,False
+Peruviancreative,Jason,Lima Peru,PeruvianCreative,0,0,0,0.0,5329,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ricardo92,Ricardo,lima - Peru,WebDbas,0,0,0,0.0,5317,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+JGALVIZURI,JUAN PEDRO GONZALES ALVIZURI,LIMA - PERU,VODAFONE ESPAÑA,0,0,0,0.0,5317,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+waguzman,Walter Angelo,Lima-Peru,,1,1,0,1.0,5322,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,,False
+rnunez1055,Evolucionmedia Estudio Web,Peru,Evolucionmedia Estudio Web,2,0,0,0.0,5338,0.14,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,2201.0,False
+miguelgrandez,Miguel Grandez,Lima-Peru,,0,0,0,0.0,5324,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+gourmetmarket,Gourmet Market,Lima Peru ,Gourmet Market,1,1,0,1.0,5318,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,,False
+kevinayuque,Kevin Ayuque,"Lima, Peru",,5,5,3,1.0,5315,0.34,0,0,0.0,1,11,Swift,Python,Jupyter Notebook,4,1,J,0.0,0.0,0,2868.0,False
+iosefkebesh,Iosef Kebesh,Peru,Inteligencia Meditativa,1,0,0,0.0,5332,0.07,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,3085.0,False
+rhernandezn,Ramiro Hernandez,Lima - Peru,USIL,1,1,0,1.0,5316,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,5316.0,False
+erafo,Erik,Peru,,1,0,0,0.0,5323,0.07,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,4069.0,False
+barforever,briano,Peru,,4,3,0,0.75,5319,0.27,0,0,0.0,1,3,Blade,Python,,2,0,,0.0,0.0,0,1254.0,False
+atejada,Blag,"Lima, Peru",,26,12,7,0.46,5287,1.79,47,15,3.13,1,73,Python,Ruby,Java,11,1,J,0.0,0.62,1,12.0,True
+tineo,"Gutierrez Tineo, Cesar","Lima, Peru",NTT DATA EMEAL,134,29,6,0.22,5280,9.26,10,16,0.62,2,51,PHP,JavaScript,HTML,18,1,J,0.0,0.17,21,297.0,False
+davemaster,David Elias,Peru - South America,TeleTracking SAC,15,8,2,0.53,5285,1.04,9,44,0.2,1,21,C++,Jupyter Notebook,C,6,1,A,0.0,0.67,0,527.0,False
+alexis5999,ALEXIS,PERU,MAPFRE,12,2,0,0.17,5305,0.83,7,1,7.0,1,9,Java,HTML,JavaScript,4,1,J,0.0,0.0,0,826.0,False
+pportocarrero,Pedro Portocarrero,Peru,,7,11,2,1.57,5283,0.48,4,12,0.33,2,19,Jupyter Notebook,Python,,2,1,K,0.0,0.29,0,435.0,False
+MarioZarate,Mario Zárate,Peru,Buk,12,0,0,0.0,5306,0.83,3,3,1.0,0,3,PHP,Swift,Dart,4,0,,0.0,0.0,1,1887.0,False
+zezelazo,Zeze Lazo,"Arequipa, Peru",,14,1,2,0.07,5287,0.97,2,3,0.67,1,7,C#,,,1,0,,0.0,0.07,8,60.0,True
+noheroes,,"Lima, Peru",Watopa Soft,16,0,0,0.0,5308,1.1,2,0,2.0,0,2,Makefile,Python,Jupyter Notebook,7,0,,0.0,0.19,0,1005.0,False
+intartif,Jonatan,Peru,,14,0,1,0.0,5307,0.96,1,2,0.5,0,3,Python,Shell,TypeScript,4,0,,0.0,0.36,13,22.0,True
+jenriquexx,Jimmy Ore,PERU,Ninguna,0,0,0,0.0,5308,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+cjulcapoma,Carlos Julcapoma,"Lima, Peru",,6,1,0,0.17,5294,0.41,0,1,0.0,1,1,Java,CSS,HTML,4,0,,0.0,0.17,0,96.0,False
+hpaucars,HUGO PAUCAR,"PERU, SAN RAMÓN",,1,0,0,0.0,5295,0.07,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,1462.0,False
+logabstract,Jorge Ventura,Peru,UNMSM,13,2,0,0.15,5302,0.89,0,0,0.0,1,2,JavaScript,PHP,C++,4,0,,0.0,0.15,0,581.0,False
+grohlperu,Cesar RB,"Lima, PERU",Nextcloud PERU,1,0,0,0.0,5306,0.07,0,2,0.0,0,0,,,,0,0,,0.0,0.0,0,1226.0,False
+manix22,manuel sornoza,peru,freelance,2,0,0,0.0,5297,0.14,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,2846.0,False
+kaimnryu,César Pacha,"Tacna, Peru",,0,0,0,0.0,5293,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+kerpie,Kerry,"Tacna, Peru",Studio 14,43,12,21,0.28,5270,2.98,35,0,35.0,2,89,Java,Ruby,Kotlin,5,1,J,0.0,0.0,3,281.0,False
+lokcito,ray,Peru - Huancayo,itux,113,3,46,0.03,5275,7.82,29,8,3.62,1,124,JavaScript,Python,HTML,16,0,,0.0,0.09,70,1.0,True
+masonlabcc,Mason Lab,Lima - Peru,Mason Lab,1,0,1,0.0,5274,0.07,26,7,3.71,0,28,Java,,,1,0,,0.0,0.0,0,4047.0,False
+Jroa,Jonathan Roa,"Lima, Peru",,12,3,0,0.25,5261,0.83,9,17,0.53,1,12,Java,HTML,PHP,6,0,,0.0,0.0,0,2321.0,False
+titoluyo,Tito Luyo Murata,"Lima, Peru",,46,4,3,0.09,5276,3.18,8,12,0.67,1,18,C#,JavaScript,Java,15,1,M,0.0,0.07,15,0.0,True
+munilvc,Felipe Vega,"Lima, Peru",,9,2,0,0.22,5277,0.62,7,7,1.0,1,9,Scala,Java,CSS,3,0,,0.0,0.11,0,1640.0,False
+pythonpe,Python Perú,Peru,,4,25,33,6.25,5253,0.28,7,0,7.0,2,98,Python,,,1,1,J,0.0,1.0,36,35.0,True
+RaulHuertas,Raul Huertas,Lima Peru,None,60,48,8,0.8,5248,4.17,4,27,0.15,3,68,C++,Python,TypeScript,12,2,C,0.0,0.13,1,2.0,True
+jprada1984,Jimmy Prada Guadalupe,peru,Developer Freelance,12,4,14,0.33,5269,0.83,3,4,0.75,1,35,Java,Python,Go,4,1,K,0.0,0.0,0,362.0,False
+dlaban,Davis Laban,"Lima, Peru",,1,0,0,0.0,5255,0.07,1,1,1.0,0,1,JavaScript,,,1,0,,0.0,0.0,0,3162.0,False
+marquez20,Rodolfo,"Lima, Peru",Brainred,3,0,0,0.0,5278,0.21,0,0,0.0,0,0,ActionScript,,,1,0,,0.0,0.0,22,3860.0,False
+sandysa87,Sandy,peru,casa,1,1,0,1.0,5275,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,,False
+edermanuel,ImNotET,Peru,,0,0,0,0.0,5248,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+tipoprog,Ruben Falcon,"Lima, Peru",,0,0,0,0.0,5262,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+binperu,Business  Intelligence Peru,Pucallpa - Peru,BinPeru,1,0,0,0.0,5273,0.07,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4813.0,False
+richi010384,Ricardo Martin Beuermann,"Lima, Peru",Strategy & Improvement,2,2,0,1.0,5268,0.14,0,0,0.0,1,2,JavaScript,,,1,0,,0.0,0.0,0,3232.0,False
+romagna16,Juan Guzman Romana,Cusco - Peru,Romagna Trading Corporation,0,0,0,0.0,5267,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+delapaz87,Antonio de la Paz,"Lima, Peru",DLP CONSULTING,6,2,0,0.33,5271,0.42,0,7,0.0,1,2,PHP,TypeScript,C#,4,0,,0.0,0.5,30,1103.0,False
+maflores,Miguel Angel Flores,"Lima, Peru",Bitalica,1,1,0,1.0,5261,0.07,0,1,0.0,1,1,,,,0,0,,0.0,0.0,0,4995.0,False
+lavaldi,Claudia Valdivieso,"Lima, Peru",@Drafteame,68,50,23,0.74,5222,4.75,104,88,1.18,3,200,JavaScript,TypeScript,HTML,14,2,J,0.0,0.07,29,871.0,False
+ccarruitero,César Carruitero,Peru,,70,505,123,7.21,5230,4.89,42,0,42.0,3,793,Ruby,JavaScript,CSS,9,3,J,0.0,0.21,50,817.0,False
+dairdev,Dennis,Peru,,30,30,5,1.0,5246,2.09,38,80,0.47,2,78,HTML,JavaScript,CSS,8,2,P,0.0,0.13,9,94.0,False
+AlonsoCN,Luis Alonso,Peru,,17,0,0,0.0,5220,1.19,27,91,0.3,0,27,JavaScript,TypeScript,HTML,8,0,,0.0,0.18,0,1593.0,False
+luiseduardoaugusto,Chinoa,Peru,artemanifiesto.com,63,3,1,0.05,5237,4.39,13,38,0.34,1,18,Ruby,CSS,JavaScript,7,0,,0.0,0.06,0,1.0,True
+jinca,Julita Inca,Peru,GNOME,22,6,2,0.27,5218,1.54,8,16,0.5,1,18,Python,C,HTML,8,1,M,0.0,0.59,1,1027.0,False
+alangiovannipc,Alan ,Lima - Peru,,28,1,0,0.04,5247,1.95,6,5,1.2,1,7,TypeScript,Java,JavaScript,6,0,,0.0,0.11,40,37.0,True
+cristianeph,cristianeph,"Lima, Peru",,18,4,2,0.22,5241,1.25,5,3,1.67,1,13,JavaScript,TypeScript,Java,6,1,J,0.0,0.11,7,37.0,True
+betogomezdev,Beto Gomez,Peru,,8,0,1,0.0,5218,0.56,5,5,1.0,0,7,PHP,JavaScript,HTML,3,0,,0.0,0.38,0,148.0,False
+jsus85,Jesús  Guevara Pinedo,Lima - Peru,,13,1,0,0.08,5221,0.91,3,24,0.12,1,4,PHP,Java,C#,4,0,,0.0,0.38,0,416.0,False
+ccrrvvaa,Cesar Vargas,"Lima, Peru",,9,2,0,0.22,5217,0.63,1,0,1.0,1,3,HTML,PHP,Python,3,0,,0.0,0.0,0,459.0,False
+jaybar,Jorge Luis Aybar Coronel,PERU,Municipalidad de Ventanilla,0,0,0,0.0,5240,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+hendrul,Raul Contreras,"Lima, Peru",,22,0,0,0.0,5220,1.54,1,0,1.0,0,1,JavaScript,TypeScript,CSS,5,0,,0.0,0.14,36,1022.0,False
+ax2to,Alan Tello Oyola,Peru,,11,0,6,0.0,5219,0.77,1,0,1.0,0,13,PHP,Shell,HTML,3,0,,0.0,0.73,2,17.0,True
+VictorHerrera,Victor Herrera,"Lima, Peru",,0,0,0,0.0,5239,0.0,1,1,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+wts200,Willy,Lima - Peru,,0,0,0,0.0,5225,0.0,0,3,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+martinga,Martin Inga,Peru,SN,0,0,0,0.0,5228,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+riksaya,Ricardo Barriga Palomino,"Lima, peru",,1,1,0,1.0,5223,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,,False
+inforux,Miguel Angel ,Peru,,7,1,1,0.14,5240,0.49,0,1,0.0,1,3,TypeScript,JavaScript,Java,3,0,,0.0,0.43,0,115.0,False
+ArturoDeza,Arturo,"Lima, Peru",Artificio,8,83,11,10.38,5196,0.56,77,111,0.69,5,182,Python,Matlab,MATLAB,4,2,M,0.0,0.5,2,1711.0,False
+kandra,Karen Da Cruz,"Lima, Peru",,15,2,4,0.13,5204,1.05,48,0,48.0,1,58,Ruby,JavaScript,Python,8,0,,0.0,0.0,3,84.0,True
+jclema,Juan Camilo,"Lima, Peru",escuelab,1,1,0,1.0,5214,0.07,10,10,1.0,1,11,Objective-C,,,1,0,,0.0,0.0,0,4629.0,False
+poschuler,Paul Osorio Schuler,Peru,,45,0,0,0.0,5215,3.15,5,1,5.0,0,5,TypeScript,C#,JavaScript,6,0,,0.0,0.09,0,21.0,True
+Jael860,Jesus Espino,Peru,,3,0,0,0.0,5211,0.21,2,0,2.0,0,2,HTML,JavaScript,CSS,3,0,,0.0,0.0,3,56.0,True
+ferampe,Fernando Ramos,Lima Peru,,16,1,0,0.06,5207,1.12,2,2,1.0,1,3,PHP,HTML,JavaScript,6,0,,0.0,0.0,26,144.0,False
+alejandroxf,Alejandro,Peru,Xurface,4,0,2,0.0,5214,0.28,0,1,0.0,0,4,Objective-C,,,1,0,,0.0,0.0,0,1438.0,False
+ivanaguilar,Ivan Aguilar,"Trujillo, Peru",iVAN,0,0,0,0.0,5203,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+odolores,Omar Dolores,Peru ,EL CADES,0,0,0,0.0,5212,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+angelmoskera,Angel Yarmas,Peru,,2,0,0,0.0,5217,0.14,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,3424.0,False
+dijkstracted,Carlos Mendoza,"Lima, Peru",,0,0,0,0.0,5204,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+robertoreto,Roberto Reto Toro,Peru,,0,0,0,0.0,5217,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+josevasquezb,Jose Vasquez Bustamante,Peru,Jose Vasquez Bustamante,1,1,0,1.0,5215,0.07,0,0,0.0,1,1,Java,,,1,0,,0.0,0.0,0,5208.0,False
+Oxicode,Christian Quispe H,Lima Peru,BCP,9,3,1,0.33,5176,0.63,58,168,0.35,1,63,PHP,JavaScript,,2,1,J,0.0,0.22,13,1.0,True
+paulrrdiaz,Paúl Díaz Navarrete,"Lima, Peru",,46,47,27,1.02,5165,3.25,32,15,2.13,4,133,JavaScript,TypeScript,CSS,6,3,J,0.0,0.0,115,1.0,True
+carloshs92,Carlos,"Lima, Peru",,50,14,9,0.28,5163,3.53,27,34,0.79,2,59,TypeScript,JavaScript,Python,7,1,J,0.0,0.04,28,157.0,False
+xapiens,Francisco Morosini,Peru,dravios,3,2,5,0.67,5168,0.21,23,40,0.57,1,35,Java,,,1,0,,0.0,0.33,1,1026.0,False
+ddumst,Diego Becerra,Peru,APG.gg,13,2,2,0.15,5181,0.92,17,3,5.67,1,23,TypeScript,JavaScript,CSS,3,0,,0.0,0.0,0,150.0,False
+CesarBustios,César Bustíos,"Lima, Peru",,4,6,1,1.5,5169,0.28,15,3,5.0,1,23,Python,CSS,,2,1,N,0.0,0.75,4,919.0,False
+necritos,jose manuel rios vega,Peru,Kodevian SAC,21,4,4,0.19,5178,1.48,9,2,4.5,1,21,Java,JavaScript,Kotlin,5,1,J,0.0,0.05,0,2028.0,False
+darsenault77,Daniel Arsenault,"Montreal, Canada & Chiclayo, Peru",,1,0,0,0.0,5175,0.07,4,0,4.0,0,4,MDX,,,1,0,,0.0,0.0,0,858.0,False
+jgwong,Jaime G. Wong,Peru,,4,0,0,0.0,5182,0.28,4,1,4.0,0,4,Ruby,PHP,,2,0,,0.0,0.0,0,614.0,False
+mfabing,Michael Fabing,Peru,Novusteck,15,15,1,1.0,5167,1.06,3,1,3.0,2,20,Python,Shell,HTML,6,1,J,0.0,0.13,0,50.0,True
+datevid,David León Vilca,Peru,MPFN Fiscalía de la Nación,66,0,0,0.0,5165,4.66,3,7,0.43,0,3,Java,Python,TypeScript,8,0,,0.0,0.73,1,20.0,True
+artur909,Arturo Ticona,Arequipa - Peru,,3,0,0,0.0,5156,0.21,2,6,0.33,0,2,Vue,,,1,0,,0.0,0.0,0,112.0,False
+jarpz,Jonathan Rodriguez,Peru,,4,0,0,0.0,5183,0.28,2,3,0.67,0,2,Java,,,1,0,,0.0,0.0,0,1240.0,False
+Andreslgz,Andres Lopez Gomez,Peru - Puerto rico,Smart Hiring,5,1,0,0.2,5175,0.35,1,4,0.25,1,2,PHP,JavaScript,,2,0,,0.0,0.0,0,164.0,False
+LOQUILLO,Cesar Martin,"Lima, Peru",,5,5,2,1.0,5181,0.35,1,0,1.0,1,10,JavaScript,CSS,,2,1,J,0.0,0.0,0,553.0,False
+omaryp,Omar Yarleque,PIURA-PERU,,21,1,0,0.05,5175,1.48,1,15,0.07,1,2,Java,JavaScript,PHP,4,0,,0.0,0.0,0,641.0,False
+yoelkj,yoel velasquez valencia,Peru,velcodi,22,0,0,0.0,5165,1.55,1,2,0.5,0,1,HTML,PHP,Astro,11,0,,0.0,0.18,32,75.0,True
+ivanp151,Alfredo Iván,Lima -Peru,Empresa Digital Peruana,2,0,0,0.0,5172,0.14,1,1,1.0,0,1,PHP,,,1,0,,0.0,1.0,3,4600.0,False
+cquevedo,Cesar Quevedo Vega,Peru - Lima,,2,0,0,0.0,5183,0.14,1,1,1.0,0,1,Java,,,1,0,,0.0,0.0,0,248.0,False
+bamtang-dev,Github,"Lima, Peru",,0,0,0,0.0,5183,0.0,1,2,0.5,0,1,,,,0,0,,0.0,0.0,0,,False
+h3ara,Helmut  Rojas Arango,Peru,,0,0,0,0.0,5181,0.0,1,2,0.5,0,1,,,,0,0,,0.0,0.0,0,,False
+jmelendezdev,Jonathan Melendez Alva,Peru,,0,0,0,0.0,5176,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+mespinoza,Miguel Espinoza,Lima - Peru,,4,0,0,0.0,5170,0.28,0,1,0.0,0,0,Java,JavaScript,,2,0,,0.0,0.0,0,1928.0,False
+1engels,Engels,Peru,PTSYS,10,3,3,0.3,5177,0.71,0,1,0.0,1,9,HTML,Python,JavaScript,5,1,R,0.0,0.0,0,987.0,False
+AndresChavez,Andres Chavez,"Lima, Peru",Online Studio Productions,3,0,0,0.0,5184,0.21,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,36.0,True
+billyje,Billy Lujan R.,Lima Peru,eLujanes,0,0,0,0.0,5177,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+mike2shield,Miguel Angel,"Lima, Peru",SOS SOLUCIONES INFORMATICAS,0,0,0,0.0,5158,0.0,0,2,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+erojas,Evert Rojas P,Lima Peru,,1,1,0,1.0,5177,0.07,0,0,0.0,1,1,Ruby,,,1,0,,0.0,0.0,0,5155.0,False
+DevTouch,Cesar Galvez,"Lima, Peru",Touch Mobile,0,0,0,0.0,5183,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+Yulls,Yuliana Goni,"Lima, Peru",Touch Entertainment,0,0,0,0.0,5177,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+juanMory,Juan Antonio Mory Morales,"Lima, Peru",NETVOX S.A.C.,1,1,0,1.0,5176,0.07,0,1,0.0,1,1,Ruby,,,1,0,,0.0,0.0,0,5156.0,False
+useraul,useraul,Peru,NavegaP,3,0,0,0.0,5181,0.21,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,2098.0,False
+newcircus,Newcircus,"Lima, Peru",Newcircus,0,0,0,0.0,5167,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+gregayca,Gregorio Ayca,"Lima, Peru",Andeansoft,0,0,0,0.0,5168,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+TouchConsulting,Touch Consulting SAC,"Lima, Peru",,0,0,0,0.0,5177,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+Puercoarana,David,Peru,atoq,4,2,0,0.5,5177,0.28,0,0,0.0,1,2,,,,0,0,,0.0,0.0,0,4339.0,False
+josecch,Jose Cruz,"Lima, Peru",Infonet,0,0,0,0.0,5171,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+mborja00,Manuel Borja,Santiago de Surco - Lima - Peru,Inversiones Prialbo S.A.C.,3,0,0,0.0,5168,0.21,0,0,0.0,0,0,JavaScript,,,1,0,,0.0,0.0,0,4725.0,False
+heilop,Heissen Lopez,"Lima, Peru",,42,4,11,0.1,5128,2.99,16,15,1.07,1,42,JavaScript,PHP,Python,8,0,,0.0,0.31,166,103.0,False
+hoscanoa,Hoscanoa,Lima-Peru,,32,2,0,0.06,5143,2.27,8,7,1.14,1,10,Java,C#,Visual Basic,8,1,P,0.0,0.03,11,2549.0,False
+juanxc,Juan,"Lima, Peru",,10,0,0,0.0,5146,0.71,5,16,0.31,0,5,JavaScript,HTML,Astro,6,0,,0.0,0.0,23,250.0,False
+CarlosJRoo,Carlos,"lima, peru",,0,0,0,0.0,5134,0.0,5,6,0.83,0,5,,,,0,0,,0.0,0.0,0,,False
+ninosimeon,Nino Simeon,"Lima, Peru",,7,7,0,1.0,5137,0.5,5,10,0.5,1,12,JavaScript,PHP,TypeScript,3,0,,0.0,0.0,62,1162.0,False
+martip07,Joseph,Peru,,18,1,1,0.06,5130,1.28,4,4,1.0,1,7,Go,Python,JavaScript,7,0,,0.0,0.67,30,1059.0,False
+elericuz,Eric Valera Miller,"Lima, Peru",Iteraciona,26,1,1,0.04,5141,1.85,3,2,1.5,1,6,PHP,Kotlin,JavaScript,7,0,,0.0,0.27,8,0.0,True
+dfujimoto,Daniel Fujimoto Gamero,"Lima, Peru",,6,4,0,0.67,5128,0.43,2,5,0.4,1,6,Ruby,Java,,2,0,,0.0,0.0,0,3146.0,False
+mrisco,Marco Risco,"Lima, Peru",Innovación Tecnológica y Empresarial SAC,6,5,4,0.83,5140,0.43,1,0,1.0,2,14,JavaScript,C,Perl,3,1,D,0.0,0.17,1,1520.0,False
+alemcito,alemcito,"Lima, peru",hacklibre,7,1,1,0.14,5143,0.5,1,0,1.0,1,4,Python,JavaScript,,2,0,,0.0,0.14,0,4327.0,False
+cesarfong,César Fong,"Lima, Peru",@microsoft ,4,0,0,0.0,5141,0.28,1,2,0.5,0,1,C#,,,1,0,,0.0,0.25,1,1192.0,False
+rivasquispen,Pierre Rivas Quispe,"Lima, Peru",@codigital.pe,3,0,0,0.0,5130,0.21,1,1,1.0,0,1,JavaScript,,,1,0,,0.0,0.0,0,4.0,True
+flisolperu,Flisol Perú,Peru,,1,3,4,3.0,5152,0.07,0,0,0.0,1,11,CSS,,,1,1,J,0.0,0.0,3,4343.0,False
+lramos,Luis Ramos,Peru,Ases Soft,1,0,0,0.0,5155,0.07,0,18,0.0,0,0,,,,0,0,,0.0,1.0,1,102.0,False
+amsantosr,Abraham Santos,Peru,,3,2,1,0.67,5129,0.21,0,0,0.0,1,4,C++,,,1,1,M,0.0,0.33,0,836.0,False
+zthanly,zthanly Porras Ramirez,"Lima, peru",zthanly,0,0,0,0.0,5130,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ApuRed,Cesar Paredes,Peru,ApuRed SolucionesS.A.C,1,0,0,0.0,5132,0.07,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,2555.0,False
+janetjbm121,Janet Bravo,"Lima, Peru",,0,0,0,0.0,5147,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jackhch,isaias,lima peru,,0,0,0,0.0,5130,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+abel121,Abel,Peru,,0,0,0,0.0,5140,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+marlenita,miriam marlene tinoco garcia,LIMA PERU,FE Y ALEGRÍA No 2,1,0,0,0.0,5127,0.07,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4537.0,False
+Supermio,Supermio,"Lima, Peru",,8,2,0,0.25,5132,0.57,0,0,0.0,1,2,TypeScript,JavaScript,C#,4,1,R,0.0,0.0,100,1145.0,False
+edutrul,Eduardo Telaya,"Lima, Peru",Lullabot & heydru!,97,31,19,0.32,5099,6.94,83,114,0.73,3,152,PHP,JavaScript,Java,12,4,J,0.0,0.33,31,44.0,True
+javsan77,Javier Sanchez Ayte,Peru,,40,12,0,0.3,5111,2.86,37,131,0.28,1,49,Jupyter Notebook,Python,JavaScript,8,1,P,0.0,0.5,0,38.0,True
+rtbustamantec,Raul Tomas Bustamante Cruzado,"Lima, Peru",Software Engineer,7,0,0,0.0,5097,0.5,19,38,0.5,0,19,Python,Ruby,SCSS,4,0,,0.0,0.14,0,159.0,False
+vanessapr,Vanessa Paco Ramos,Peru,,27,9,1,0.33,5099,1.93,15,17,0.88,2,26,JavaScript,TypeScript,Ruby,8,2,R,0.0,0.22,22,576.0,False
+dpalominop,Daniel Palomino,Peru,Moody's Analytics,52,53,16,1.02,5105,3.72,15,8,1.88,3,100,Jupyter Notebook,Python,Ruby,9,7,J,0.0,0.87,1,211.0,False
+jegj,Javier,"Lima, Peru",,36,42,4,1.17,5118,2.57,10,35,0.29,3,60,JavaScript,Ruby,Shell,10,2,J,0.0,0.25,10,0.0,True
+neotrons,Jose Carlos,Peru,Gestyde - España,25,19,19,0.76,5100,1.79,9,2,4.5,2,66,Python,JavaScript,TypeScript,4,3,P,0.0,0.0,16,24.0,True
+jhonatn,Jhonatan A.,"Lima, Peru",,19,153,3,8.05,5109,1.36,8,0,8.0,3,167,Swift,C#,,2,2,J,0.0,0.37,0,114.0,False
+dvhirt,Daniel Vidaurre,Peru,Mambo,4,0,0,0.0,5098,0.29,5,6,0.83,0,5,Shell,PHP,,2,0,,0.0,0.0,0,3430.0,False
+edubecks,edu,"arequipa, peru",,3,1,4,0.33,5100,0.21,5,0,5.0,1,14,JavaScript,Python,,2,0,,0.0,0.33,8,4000.0,False
+dyland30,Daniel Castillo,Peru,,20,4,3,0.2,5109,1.43,3,3,1.0,1,13,JavaScript,Python,Ruby,5,1,K,0.0,0.0,40,69.0,True
+lekofev,rrodrig,lima - peru,home,15,9,9,0.6,5119,1.07,3,3,1.0,1,30,JavaScript,Ruby,CSS,6,1,J,0.0,0.0,0,4238.0,False
+mayenkaf,mayenkaf,"Puno, Peru",,17,0,0,0.0,5114,1.21,2,0,2.0,0,2,Jupyter Notebook,HTML,JavaScript,6,0,,0.0,0.0,2,324.0,False
+danielantonionunez,Daniel Antonio Nunez Carhuayo,Peru Lima,AngelusDragon,3,2,1,0.67,5102,0.21,1,5,0.2,1,5,Ruby,,,1,0,,0.0,0.67,0,2097.0,False
+Fredyg1965,Fredy Gonzales P.,Lima - Peru,NEGOSAT.COM S.A.C.,1,1,0,1.0,5124,0.07,1,22,0.05,1,2,,,,0,0,,0.0,0.0,0,3694.0,False
+zoemy16,Claudia M. Yarnold,Peru,,1,1,0,1.0,5101,0.07,1,0,1.0,1,2,,,,0,0,,0.0,0.0,0,,False
+kalesis,Juan Carlos Acosta,Peru,Kaelum,8,1,2,0.12,5103,0.57,0,3,0.0,1,5,Ruby,Python,HTML,4,0,,0.0,0.12,0,1591.0,False
+fgomez75,fgomez,peru,factoriamedia.com,0,0,0,0.0,5110,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+GonzalesLuisf,lfgonzales,"Lima, Peru",DIACSA,4,0,0,0.0,5109,0.29,0,0,0.0,0,0,JavaScript,Python,,2,0,,0.0,0.0,0,18.0,True
+younglives,Young Lives,"Ethiopia, India, Peru, Vietnam, UK",,16,1,0,0.06,5113,1.14,0,0,0.0,1,1,Python,CSS,PHP,3,0,,0.0,0.06,0,3713.0,False
+fterryo,Terry,peru,Universidad Cesar Vallejo,3,0,0,0.0,5119,0.21,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,3840.0,False
+krloz,Krloz,Peru,,1,1,0,1.0,5107,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,,False
+ggalarza1091,Gustavo Andres Galarza Arica,Peru,,2,1,0,0.5,5101,0.14,0,0,0.0,1,1,Java,,,1,0,,0.0,0.0,0,4515.0,False
+foxito20,americo,peru,unamb,1,1,0,1.0,5124,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,,False
+elbereth,Alexandre Devilliers,Peru,,11,283,127,25.73,5085,0.79,55,0,55.0,4,592,PHP,Pascal,JavaScript,5,3,K,0.0,0.73,140,475.0,False
+indobits,Luis Arellano,"Lima, Peru",Freelance,27,2,57,0.07,5094,1.93,23,116,0.2,1,139,JavaScript,Dockerfile,HTML,8,0,,0.0,0.11,19,281.0,False
+wilson0xb4,Andrew Wilson,"Lima, Peru",,0,0,0,0.0,5081,0.0,13,6,2.17,0,13,,,,0,0,,0.0,0.0,0,,False
+cruzdiego,Diego Cruz,"Lima, Peru",,12,167,22,13.92,5066,0.86,9,0,9.0,2,220,Swift,HTML,Shell,3,1,J,0.0,0.25,8,2159.0,False
+gquiroz,Gustavo Quiroz,"Lima, Peru",,1,1,0,1.0,5093,0.07,5,0,5.0,1,6,,,,0,0,,0.0,0.0,0,5000.0,False
+hardlick,Hugo Casanova,"Trujillo, Peru",mcets inc,1,0,0,0.0,5072,0.07,1,0,1.0,0,1,PHP,,,1,0,,0.0,0.0,0,3960.0,False
+jcheros,Jose Chero Sojo,Peru,,10,0,0,0.0,5071,0.72,1,1,1.0,0,1,HTML,Java,C#,5,0,,0.0,0.1,0,149.0,False
+ederflores,Eder Flores,Lima - Peru,,1,0,0,0.0,5079,0.07,1,2,0.5,0,1,JavaScript,,,1,0,,0.0,0.0,0,4216.0,False
+tavitooo,Gustavo Gutierrez,Peru,,3,0,0,0.0,5079,0.22,0,0,0.0,0,0,Visual Basic,,,1,0,,0.0,0.33,0,194.0,False
+azenvalencia,Angelo Adrianzen Valencia,Lima - Peru,,0,0,0,0.0,5091,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+minkaweb,Rosmel,Peru,Minka Web,2,2,0,1.0,5071,0.14,0,0,0.0,1,2,,,,0,0,,0.0,0.0,0,5070.0,False
+lbarrientos,Luis,Peru,jbm,2,1,0,0.5,5070,0.14,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,1551.0,False
+xzxozonoxzx,Luis Alvarado,Trujillo-Peru,,1,1,0,1.0,5081,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,5081.0,False
+carlosalva82,carlos,Peru,,5,1,0,0.2,5073,0.36,0,0,0.0,1,1,CSS,JavaScript,PHP,3,0,,0.0,0.4,0,59.0,True
+nwing,Antony Tasayco,"Peru, Lima",,6,4,0,0.67,5068,0.43,0,0,0.0,1,4,HTML,PHP,CSS,4,1,J,0.0,0.0,0,3237.0,False
+langelhc,Angel Hañari,Peru,Freelancer,11,2,0,0.18,5076,0.79,0,1,0.0,1,2,CSS,HTML,PHP,3,0,,0.0,0.0,0,422.0,False
+moisesli,Moises Linares O.,Peru - Tacna,Freelance,3,0,0,0.0,5039,0.22,22,26,0.85,0,22,JavaScript,TypeScript,,2,0,,0.0,0.33,0,150.0,False
+joelmez4,0X1010,Peru,,9,0,0,0.0,5062,0.65,14,26,0.54,0,14,Jupyter Notebook,HTML,JavaScript,4,0,,0.0,0.11,0,97.0,False
+CesarYnga,César Ynga,"Lima, Peru",,13,2,1,0.15,5042,0.94,9,0,9.0,1,13,Java,Kotlin,C++,3,0,,0.0,0.08,0,1086.0,False
+dbparedes,David Paredes,"Lima, Peru",,7,0,0,0.0,5059,0.51,8,11,0.73,0,8,HTML,Dockerfile,CSS,4,0,,0.0,0.0,1,1677.0,False
+ytachi0026,Ytalo Elias Borja Mori,"Lima, Peru",AWS Perú,17,5,2,0.29,5063,1.23,8,23,0.35,1,17,Java,JavaScript,TypeScript,3,0,,0.0,0.71,1,1343.0,False
+decos,Diego Abanto,"Lima, Peru",,42,0,0,0.0,5055,3.03,4,2,2.0,0,4,TypeScript,HTML,CSS,8,0,,0.0,0.05,0,1811.0,False
+tiposaurio,Guido Calcina Tipo,Puno-Peru,systems<3 @cacatiti,44,2,7,0.05,5049,3.18,4,34,0.12,1,20,PHP,Shell,JavaScript,7,0,,0.0,0.23,53,1163.0,False
+enietom,Eduardo Nieto,"Lima, Peru",Santex,8,1,1,0.12,5056,0.58,3,2,1.5,1,6,Java,Ruby,JavaScript,3,0,,0.0,0.25,57,1488.0,False
+tremix,Nicolas Prado,"Lima, Peru",,37,6,0,0.16,5049,2.67,3,16,0.19,1,9,PHP,CSS,HTML,6,1,G,0.0,0.24,0,130.0,False
+juliomoral2000,Julio Morales,Lima. Peru,Consis International,3,0,0,0.0,5057,0.22,2,4,0.5,0,2,Java,,,1,0,,0.0,0.0,0,3441.0,False
+cdtapay,Christian Tapay,Peru,,1,0,0,0.0,5035,0.07,2,1,2.0,0,2,TypeScript,,,1,0,,0.0,0.0,0,1716.0,False
+sdramos0303,Saul,Peru,Santex America,5,1,0,0.2,5049,0.36,1,1,1.0,1,2,HTML,,,1,0,,0.0,0.2,0,2552.0,False
+cmlval,Christian Luque,Peru - Lima,Christian Luque,21,0,4,0.0,5046,1.52,1,1,1.0,0,9,Java,TypeScript,JavaScript,7,0,,0.0,0.05,1,300.0,False
+flandaluce,Fernando Landaluce,"Lima, Peru",akeronte.com,1,0,0,0.0,5039,0.07,1,7,0.14,0,1,PHP,,,1,0,,0.0,0.0,3,1449.0,False
+angiemg20,Angela Muñoz,peru,usil,0,0,0,0.0,5046,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+sintez,Sergey Shaman,"Cusco, Peru",Shaman Group,0,0,0,0.0,5043,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+myguel,Miguel Liberato,"Surco, Lima , Peru",Flex Tic,8,1,1,0.12,5050,0.58,0,1,0.0,1,3,Java,,,1,0,,0.0,0.0,0,4398.0,False
+RogerBCA,Roger Cruz,Lima - Peru,,18,3,1,0.17,5048,1.3,0,1,0.0,1,5,PHP,JavaScript,HTML,7,0,,0.0,0.22,0,398.0,False
+luis-bardales,Luis Bardales,"Lima, Peru",Myself,3,0,0,0.0,5035,0.22,0,4,0.0,0,0,CSS,SCSS,JavaScript,3,0,,0.0,0.67,0,1499.0,False
+rzamora,Rafael Zamora,"Lima, Peru",Numa Asset Management,0,0,0,0.0,5043,0.0,0,2,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+rcvillarvila,Roberto C. Villar ,Lima Peru,vicmaes,8,0,0,0.0,5048,0.58,0,0,0.0,0,0,PHP,CSS,,2,0,,0.0,0.0,0,173.0,False
+FactorySmartSoftPeru,Smart Soft Peru,Peru,SmartSoftPeru,1,0,0,0.0,5053,0.07,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,179.0,False
+ronymv,Rony Millan  Veliz,Lima peru,,3,0,0,0.0,5048,0.22,0,0,0.0,0,0,HTML,JavaScript,Java,3,0,,0.0,0.0,0,1792.0,False
+jucehovi,Julio C. Hoyos Vise,Peru ,Dragón Tecnologías,0,0,0,0.0,5042,0.0,0,7,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+cyberleos,Leonel Martinez,peru,AtomixCloud,2,0,0,0.0,5063,0.14,0,0,0.0,0,0,JavaScript,,,1,0,,0.0,0.0,0,1364.0,False
+xzitlou,Lou Alcalá,Peru,Yout LLC,6,0,0,0.0,5007,0.44,41,4,10.25,0,41,JavaScript,Go,PHP,3,0,,0.0,0.0,0,4.0,True
+gabtio,Gabriel,"Huancayo, Peru",,0,0,0,0.0,5020,0.0,23,55,0.42,0,23,,,,0,0,,0.0,0.0,0,,False
+danielmunoz,Daniel Muñoz R.,"Lima, Peru",@kipullaxta,0,0,0,0.0,5011,0.0,10,79,0.13,0,10,,,,0,0,,0.0,0.0,0,,False
+jonaqp,jonathan,Peru-lima,,36,5,7,0.14,5031,2.61,6,11,0.55,1,25,Python,JavaScript,Jupyter Notebook,7,1,J,0.0,0.14,12,1193.0,False
+danielsd10,Daniel Salas,"Lima, Peru",,29,3,21,0.1,5025,2.11,6,2,3.0,1,51,Visual Basic,C#,PHP,7,0,,0.0,0.24,0,2948.0,False
+solics,Soli HC,Peru,,6,0,3,0.0,5024,0.44,5,2,2.5,0,11,JavaScript,HTML,,2,0,,0.0,0.0,0,855.0,False
+benArambide,Ben Arambide,Peru,,24,8,6,0.33,5026,1.74,5,3,1.67,1,25,JavaScript,Vue,HTML,7,1,J,0.0,0.08,90,690.0,False
+perudesarrollo,Max Palomino Mendoza,"Lima,Peru",Peru Desarrollo Org,24,6,5,0.25,5022,1.74,4,1,4.0,1,20,PHP,JavaScript,HTML,9,1,G,0.0,0.21,37,402.0,False
+neyder,Neyder Achahuanco,"Puno, Peru",Neyder,2,2,0,1.0,5026,0.15,4,1,4.0,1,6,Smarty,Python,,2,1,J,0.0,0.5,0,2329.0,False
+rsiguas,Roxana,Peru,,2,1,0,0.5,5034,0.15,3,1,3.0,1,4,,,,0,0,,0.0,0.0,0,4375.0,False
+luismacayo,Luis Macayo,Peru,,12,1,2,0.08,5005,0.88,3,11,0.27,1,8,PHP,TypeScript,HTML,4,0,,0.0,0.25,0,318.0,False
+cristopherloli,Cristopher Loli,"Lima, Peru",,0,0,0,0.0,5008,0.0,3,0,3.0,0,3,,,,0,0,,0.0,0.0,0,,False
+MT-Technology,Mateo Espinoza,Lima - Peru,,9,6,0,0.67,5026,0.65,2,1,2.0,1,8,Swift,JavaScript,,2,1,J,0.0,0.33,0,1545.0,False
+Ninnetyer,Manuel Morales,Peru,Info™,1,0,0,0.0,5033,0.07,2,2,1.0,0,2,,,,0,0,,0.0,0.0,0,2599.0,False
+jochavezd,Omar Chavez,"Lima, Peru",DAX Solutions,0,0,0,0.0,5017,0.0,1,1,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+Lokerfy,Carlos López Hurtado,"Lima, Peru",,0,0,0,0.0,5027,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+evicente13,Eduardo Vicente,Lima - Peru,,7,0,0,0.0,5028,0.51,1,0,1.0,0,1,Java,HTML,,2,0,,0.0,0.0,0,162.0,False
+jortegam,Juan Ortega Montalvo,"Miraflores, Lima - Peru",Compunet Peru SAC,1,1,0,1.0,5032,0.07,1,0,1.0,1,2,,,,0,0,,0.0,0.0,0,5031.0,False
+karvti,Kid Albert Rivera Valera,"Lima, Peru",Multi Top ,0,0,0,0.0,5008,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+dbryan06,Davies,Peru,,0,0,0,0.0,5012,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+dev-compunet,Desarrollo,"Lima, Peru",COMPUNET PERU SAC,2,3,0,1.5,5015,0.15,0,0,0.0,1,3,HTML,,,1,1,C,0.0,0.5,0,2979.0,False
+viktor1976,Viktor,lima-peru,softpacmania,3,0,0,0.0,5032,0.22,0,3,0.0,0,0,,,,0,0,,0.0,0.0,0,4088.0,False
+Dannylost,Dannylost,Lima - Peru,,4,14,8,3.5,5007,0.29,0,0,0.0,2,30,Java,,,1,2,P,0.0,0.0,26,4962.0,False
+tcdaza,Timoteo Chuquzuta Daza,Moyobamba - San Martin - Peru,Scorpio System Sac,1,1,0,1.0,5023,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,5023.0,False
+hadeo10,Hector Delgado,Lima-Peru,,6,0,3,0.0,5012,0.44,0,0,0.0,0,6,HTML,Java,,2,0,,0.0,0.0,0,1396.0,False
+Matfork,Matt Hernandez Vasquez,Peru,Tranzact,18,3,1,0.17,5015,1.31,0,6,0.0,1,5,TypeScript,Java,JavaScript,5,0,,0.0,0.28,86,1048.0,False
+jpchullo,Juan Pablo,"lima, Peru",,4,2,1,0.5,5031,0.29,0,6,0.0,1,4,PHP,JavaScript,,2,1,J,0.0,0.5,0,3815.0,False
+AndresHC,Andres Hinostroza,LIMA - PERU,VAVA TECHNOLOGIES,2,1,0,0.5,5009,0.15,0,0,0.0,1,1,Jupyter Notebook,,,1,0,,0.0,0.0,0,1931.0,False
+esmaydodon,Marlon Martos Quiroz,cajamarca peru,kuraka,27,2,0,0.07,5007,1.97,0,2,0.0,1,2,PHP,JavaScript,Vue,3,0,,0.0,0.04,0,790.0,False
+ramirezcodallo,Johnny Ramírez Codallo,"Venezuela, Peru",,0,0,0,0.0,5007,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jnohara,Javier Nohara,Lima - Peru,xx,3,0,0,0.0,5016,0.22,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,1438.0,False
+RedPontis,RedPontis,Peru,,0,0,0,0.0,5011,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+Aquima,RAUL QUISPE,Lima-Peru,QuimaLabs,59,4,1,0.07,4984,4.32,43,46,0.93,1,49,Swift,Objective-C,Kotlin,7,1,R,0.0,0.1,1,668.0,False
+renzo-blockchain,Renzo Avila,Peru,,1,0,0,0.0,4977,0.07,29,71,0.41,0,29,HTML,,,1,0,,0.0,1.0,0,3347.0,False
+apuntesdejava,Apuntes de Java,Peru,,39,17,5,0.44,5001,2.85,21,0,21.0,2,48,Java,HCL,JavaScript,4,2,J,0.0,0.28,12,18.0,True
+OnlyChristopher,Christopher Orlando Ramirez Montesinos,Peru,,22,3,0,0.14,4993,1.61,14,40,0.35,1,17,JavaScript,HTML,TypeScript,8,0,,0.0,0.41,43,24.0,True
+ZendljRp,Luis Junior,Peru,https://twitter.com/ZendljRp,33,0,0,0.0,4993,2.41,8,36,0.22,0,8,Java,PHP,HTML,7,0,,0.0,0.06,1,490.0,False
+rsamanez,Rommel Samanez,Peru,,67,10,1,0.15,4999,4.89,5,6,0.83,2,17,JavaScript,PHP,Assembly,12,2,J,0.0,0.15,150,126.0,False
+tsifuentes,Thomas Sifuentes,"Lima, Peru",,14,1,0,0.07,4995,1.02,5,5,1.0,1,6,JavaScript,TypeScript,Java,4,0,,0.0,0.07,0,1456.0,False
+stoneneo,Ruben Dario Huamani Ucharima,Lima - Peru,Gorilla Soft,4,1,0,0.25,4988,0.29,5,19,0.26,1,6,PHP,,,1,0,,0.0,1.0,0,106.0,False
+jfuertes,Jair Alex,"Lima, Peru",csluni,32,3,1,0.09,4974,2.35,4,6,0.67,1,9,JavaScript,CSS,HTML,6,0,,0.0,0.16,0,242.0,False
+alandupont,Alan Dupont,Peru,riqra,1,0,0,0.0,4990,0.07,3,8,0.38,0,3,,,,0,0,,0.0,0.0,0,4800.0,False
+allenjoseph,Allen Joseph,"Lima, Peru",,43,3,2,0.07,5001,3.14,3,0,3.0,1,10,JavaScript,Go,TypeScript,10,1,J,0.0,0.19,30,20.0,True
+lbenito94,Luis Benito,Lima - Peru,Coming soon.,4,1,0,0.25,4985,0.29,1,1,1.0,1,2,Java,Ruby,,2,0,,0.0,0.0,0,1552.0,False
+ingrenee,renee morales,lima peru,,24,1,0,0.04,4998,1.75,1,1,1.0,1,2,PHP,JavaScript,CSS,3,0,,0.0,0.46,1,1662.0,False
+rolandoe9,rolando espiritu monago,peru : lima,,1,2,1,2.0,4975,0.07,1,0,1.0,1,5,,,,0,1,J,0.0,0.0,0,4974.0,False
+Salomon124,Salomon,Peru,,2,0,0,0.0,4998,0.15,0,0,0.0,0,0,,,,0,0,,0.0,0.5,0,4378.0,False
+xdmoisesbx,Moisés,Peru,,1,1,0,1.0,4992,0.07,0,1,0.0,1,1,,,,0,0,,0.0,0.0,0,4992.0,False
+shinkrelian,Javier,Peru,bit2bit,5,0,0,0.0,4982,0.37,0,0,0.0,0,0,Python,Ruby,HTML,4,0,,0.0,0.0,0,2371.0,False
+applicape,Applica.pe,"Lima, Peru",,1,0,0,0.0,4996,0.07,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,2783.0,False
+giancar70,Giancarlo,Peru,Karaoke Smart,4,0,0,0.0,4980,0.29,0,3,0.0,0,0,Python,JavaScript,C#,3,0,,0.0,0.0,0,499.0,False
+Edyhawk,Edyhawk,Cusco - Peru,,0,0,0,0.0,4983,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ricxrdoc,Ricardo Benavides,Lima - Peru,,0,0,0,0.0,4995,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+guerracloud,Jorge Guerra,"Lima, Peru",UNMSM,0,0,0,0.0,4993,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+aresquin,Antonio Resquin,Peru,,2,0,4,0.0,4999,0.15,0,0,0.0,0,8,JavaScript,Java,,2,0,,0.0,0.0,0,4640.0,False
+roelrosales,roel,peru,rana,1,1,0,1.0,4998,0.07,0,0,0.0,1,1,,,,0,0,,0.0,0.0,0,4998.0,False
+escuelab,escuelab,"Lima, Peru",,3,1,0,0.33,5000,0.22,0,0,0.0,1,1,JavaScript,PHP,,2,0,,0.0,0.33,0,4694.0,False
+davidgrilloc,David Grillo Cavero,"Lima, Peru",,3,3,0,1.0,5003,0.22,0,1,0.0,1,3,Ruby,,,1,0,,0.0,0.0,0,4987.0,False
+jmoralesv,Jorge Morales,"Lima, Peru","MgSc Software Engineer, Freelance",9,4,0,0.44,4946,0.66,31,126,0.25,1,35,C#,C++,,2,0,,0.0,0.56,3,1.0,True
+opando,opando,PERU,,33,1,1,0.03,4952,2.43,12,57,0.21,1,15,Java,JavaScript,HTML,9,0,,0.0,0.12,0,169.0,False
+pacifi,Bonnier Nilss Mamani Larico,Peru,Pacifi Software,64,0,2,0.0,4951,4.72,10,11,0.91,0,14,Java,Python,JavaScript,13,0,,0.0,0.05,6,100.0,False
+luiggi0925,Luiggi Mendoza,"Lima, Peru",,16,2,5,0.12,4970,1.18,8,0,8.0,1,20,Java,JavaScript,,2,1,J,0.0,0.0,7,1184.0,False
+compascafe,David Tello,Peru,Analytica.Tv,13,2,1,0.15,4953,0.96,5,40,0.12,1,9,Jupyter Notebook,Rust,Python,4,1,K,0.0,0.31,0,112.0,False
+JavierSolis,Javier Solis Flores,Lima-Peru,,53,1,0,0.02,4956,3.9,5,2,2.5,1,6,Kotlin,JavaScript,Java,9,0,,0.0,0.19,39,106.0,False
+rikardocorp,Ricardo Coronado,Tacna-Peru,,24,20,7,0.83,4968,1.76,4,3,1.33,2,38,JavaScript,Python,Jupyter Notebook,8,2,M,0.0,0.0,66,962.0,False
+yusencode,Yusén Manchego,Peru,,1,1,0,1.0,4967,0.07,4,2,2.0,1,5,JavaScript,,,1,0,,0.0,1.0,0,1802.0,False
+SagitariusErc,Erick Sagitarius,LIMA - PERU,nothing,4,0,0,0.0,4959,0.29,4,9,0.44,0,4,Shell,,,1,0,,0.0,0.25,0,1995.0,False
+Mylooz41,Benoit Dutrevis,"Lima, Peru",@haddadandpartners,3,0,0,0.0,4953,0.22,3,1,3.0,0,3,PHP,,,1,0,,0.0,0.0,0,2102.0,False
+mvergaray,Marco Vergaray,Peru,,13,1,3,0.08,4960,0.96,2,3,0.67,1,9,JavaScript,CSS,Swift,5,0,,0.0,0.08,28,1162.0,False
+paginasweb,PaginasWeb.pe,"Lima, Peru",Paginas Web,6,0,0,0.0,4967,0.44,2,2,1.0,0,2,,,,0,0,,0.0,0.0,0,2644.0,False
+kaox,Andres Garcia Burgos,Peru,,27,0,0,0.0,4960,1.99,1,1,1.0,0,1,TypeScript,Java,Dockerfile,10,0,,0.0,0.04,49,0.0,True
+jricaldi,Jorge Ricaldi,"Lima, Peru",,9,1,2,0.11,4955,0.66,1,1,1.0,1,6,JavaScript,,,1,0,,0.0,0.67,16,66.0,True
+xpadenx,Paul Dennis,Lima-Peru,,7,0,0,0.0,4944,0.52,1,2,0.5,0,1,TypeScript,Java,,2,0,,0.0,0.0,0,1467.0,False
+cocotopia,George Dueñas,peru,cocotopia,24,27,3,1.12,4952,1.77,1,1,1.0,2,34,JavaScript,HTML,CSS,6,1,J,0.0,0.04,22,526.0,False
+ronald948,Ronald Saavedra Garay,Lima Peru,Independiente,3,0,0,0.0,4949,0.22,0,1,0.0,0,0,HTML,PHP,,2,0,,0.0,0.0,0,582.0,False
+expreso12m,Alan Victor Chavez Zevallos,Lima  - Peru,Essalud,1,0,0,0.0,4945,0.07,0,6,0.0,0,0,,,,0,0,,0.0,0.0,0,596.0,False
+avelasquez,Angel Velasquez,"Lima, Peru",Frecuencia Latina,0,0,0,0.0,4949,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+rBibolotti,Rodolfo Bibolotti,Peru,,2,0,0,0.0,4959,0.15,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,450.0,False
+alvarotolentino,Alvaro Tolentino,"Lima, Peru",,53,1,1,0.02,4964,3.9,0,0,0.0,1,3,Rust,JavaScript,C#,9,0,,0.0,0.11,2,0.0,True
+lcubasjboss,Luis Cubas,Lima Peru,MS,9,0,0,0.0,4947,0.66,0,0,0.0,0,0,HTML,PowerShell,JavaScript,3,0,,0.0,0.22,3,252.0,False
+ddiestra,Diego Diestra,Peru,,5,0,1,0.0,4954,0.37,0,0,0.0,0,2,HTML,Vue,JavaScript,5,0,,0.0,0.0,0,179.0,False
+sebastianrm,Sebastian Retamal,Cuzco Peru,,1,0,0,0.0,4970,0.07,0,1,0.0,0,0,Java,,,1,0,,0.0,0.0,0,1674.0,False
+gascarzah,Giovanni Ascarza Hinostroza,"Chosica - Lima, Peru",,50,0,0,0.0,4969,3.67,0,0,0.0,0,0,Java,TypeScript,JavaScript,8,0,,0.0,0.0,45,81.0,True
+cacosta76,Christian Acosta,"Lima, Peru",Sinapsis Peru,1,0,0,0.0,4967,0.07,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,4403.0,False
+Jufervela,,Lima - Peru,@Matzio,4,0,0,0.0,4971,0.29,0,3,0.0,0,0,Python,Java,,2,0,,0.0,0.0,0,1138.0,False
+jesulink2514,Jesus Angulo,"Lima, Peru",Baufest,107,188,81,1.76,4939,7.91,117,24,4.88,6,467,C#,JavaScript,HTML,6,4,J,0.0,0.1,5,638.0,False
+romelgomez,Romel Gomez,Peru,,107,76,18,0.71,4927,7.93,98,592,0.17,4,210,TypeScript,JavaScript,PHP,13,2,J,0.0,0.22,44,54.0,True
+jchavezlavalle,Joana Chavez,Peru,,15,8,2,0.53,4939,1.11,56,151,0.37,1,68,Java,TypeScript,Rust,4,1,R,0.0,0.13,0,56.0,True
+devildeveloper,Miguel Augusto Aliaga Pantoja,Lima-Peru,freelancer,76,4,11,0.05,4931,5.63,20,6,3.33,1,46,JavaScript,CSS,PHP,5,1,J,0.0,0.16,4,3132.0,False
+jvalenciag,Jose Valencia,"Arequipa, Peru",,10,11,2,1.1,4928,0.74,18,32,0.56,2,33,Java,Ruby,JavaScript,5,2,J,0.0,0.4,38,10.0,True
+GersonDesign,Gerson Perez Aguilar,"Lima,Peru",@Aptitud-Emprendedora ,24,2,0,0.08,4913,1.78,15,5,3.0,1,17,HTML,JavaScript,Pug,5,0,,0.0,0.0,24,1189.0,False
+joelunmsm2003,Joel,Lima Peru,,164,4,5,0.02,4919,12.17,7,40,0.17,1,21,JavaScript,Python,TypeScript,15,1,C,0.0,0.09,39,190.0,False
+stinGeorge,Sting Arroyo,Peru,,10,4,1,0.4,4941,0.74,3,15,0.2,1,9,PHP,CSS,JavaScript,4,1,J,0.0,0.0,0,2696.0,False
+yanotoma,Akira Yano,"Lima, Peru",,15,0,30,0.0,4917,1.11,3,0,3.0,0,63,JavaScript,TypeScript,HTML,5,0,,0.0,0.27,1,548.0,False
+phant88,Lucas E. Coaquira Ugarte,Peru,,5,1,0,0.2,4929,0.37,3,2,1.5,1,4,Java,PHP,,2,0,,0.0,0.2,0,1732.0,False
+mistergmedina,German Medina Neria,Peru,German Medina Neria,0,0,0,0.0,4932,0.0,1,8,0.12,0,1,,,,0,0,,0.0,0.0,0,,False
+serch2012,Sergio Miness,"Lima, Peru",MINEDU,0,0,0,0.0,4922,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+franciscoliloo,Francisco Li,Peru,,0,0,0,0.0,4935,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+crackper,Samuel,Peru,@hexagon,17,2,1,0.12,4932,1.26,0,1,0.0,1,4,JavaScript,C#,PHP,6,0,,0.0,0.12,7,981.0,False
+ilmaistro,Henry Silva,"Lima, Peru",Capybara SEO,0,0,0,0.0,4924,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+acmarcel,Antonio Marcel Amado Castro,"Lima, Peru",,16,2,4,0.12,4931,1.18,0,0,0.0,1,10,JavaScript,TypeScript,PHP,6,1,J,0.0,0.31,0,2117.0,False
+GAROZ,Marco García Quiroz,Peru,,0,0,0,0.0,4937,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+studiointi,Studio Inti,"Cajamarca, Peru",Studio Inti,0,0,0,0.0,4916,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ruzzll-zz,Russell Kid,Lima - Peru,,7,2,1,0.29,4914,0.52,0,4,0.0,1,4,JavaScript,Java,,2,1,J,0.0,0.71,0,4154.0,False
+jluismoran,Jhonathan,Peru,tecnologialibre.no-ip.org,9,0,0,0.0,4942,0.66,0,0,0.0,0,0,Java,HTML,,2,0,,0.0,0.0,24,520.0,False
+juanFraPeralta,Juan Peralta,"Lima, Peru",,2,0,0,0.0,4925,0.15,0,1,0.0,0,0,JavaScript,HTML,,2,0,,0.0,0.0,0,3500.0,False
+syncromindproj,Alejandro Diaz,"Lima, Peru",Syncromind,12,0,0,0.0,4924,0.89,0,0,0.0,0,0,PHP,HTML,JavaScript,5,0,,0.0,0.0,0,1671.0,False
+cristianmontes,Cristian,Peru,,9,1,1,0.11,4929,0.67,0,0,0.0,1,3,Java,JavaScript,TypeScript,4,0,,0.0,0.0,0,243.0,False
+cbozanic,Carlos Bozanic,Peru,myself,1,0,0,0.0,4914,0.07,0,1,0.0,0,0,Rebol,,,1,0,,0.0,0.0,0,2532.0,False
+jansanchez,Jan Sanchez,"Lima, Peru",FrontEnd Labs,90,189,32,2.1,4891,6.72,154,314,0.49,7,407,JavaScript,Shell,Makefile,14,2,J,0.0,0.38,44,2444.0,False
+jeanpaulct,Jean Paul Curiñaupa Taype,Lima - Peru,,17,0,0,0.0,4883,1.27,9,50,0.18,0,9,JavaScript,HTML,EJS,4,0,,0.0,0.06,5,29.0,True
+heberth2788,Heberth Deza,Peru/La Libertad/Pacasmayo/Guadalupe,Big Bang Soft,12,7,0,0.58,4900,0.89,4,49,0.08,2,11,Kotlin,Swift,JavaScript,7,2,O,0.0,1.0,0,3.0,True
+loxi1,Anibal Cayetano,Peru,,48,1,1,0.02,4890,3.58,4,3,1.33,1,7,Astro,JavaScript,PHP,11,0,,0.0,0.19,0,5.0,True
+lquintanilla,Luis Quintanilla,"Lima, Peru",@cabify @Pluto-tv ,1,0,0,0.0,4898,0.07,3,1,3.0,0,3,PHP,,,1,0,,0.0,1.0,0,3181.0,False
+gerardob,Gerardo Bracho,"Lima, Peru",,1,0,0,0.0,4891,0.07,3,6,0.5,0,3,JavaScript,,,1,0,,0.0,0.0,0,3547.0,False
+Luis-Arpasi,Luis Arpasi,"Lima, Peru",Cignium Technologies,1,0,0,0.0,4890,0.07,2,2,1.0,0,2,,,,0,0,,0.0,0.0,0,4833.0,False
+jmaguina,Jorge Maguina,"Lima, Peru",PosmaGroup,6,1,5,0.17,4910,0.45,2,0,2.0,1,13,Java,JavaScript,CSS,3,0,,0.0,0.17,7,1043.0,False
+ronaldaqp2012,ronald ,"arequipa, peru",mia,0,0,0,0.0,4889,0.0,2,1,2.0,0,2,,,,0,0,,0.0,0.0,0,,False
+cvaldezch,Christian Valdez Ch.,"Peru, Lima",ICR PERU S.A.,14,1,6,0.07,4901,1.04,1,0,1.0,1,14,JavaScript,Python,C#,6,0,,0.0,0.29,2,3243.0,False
+javiervilcapaza,Javier Vilcapaza,Lima Peru,CloudComputing Perú,14,1,1,0.07,4888,1.05,1,0,1.0,1,4,Java,JavaScript,HTML,4,0,,0.0,0.07,0,1372.0,False
+iAlexNeyra,Alex Neyra,Chiclayo Peru,,3,0,0,0.0,4889,0.22,0,0,0.0,0,0,Vim script,Vue,Go,3,0,,0.0,0.0,0,1550.0,False
+lisettim,Lisetti Macedo Valderrama,"Arequipa,Peru",New Horizons,0,0,0,0.0,4885,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ochafloquet,OSCAR ALFREDO CHAFLOQUE TAMPECK,Lima Peru,Ministerio de Comercio Exterior y Turismo,10,0,0,0.0,4889,0.75,0,1,0.0,0,0,Java,C#,JavaScript,3,0,,0.0,0.0,1,100.0,False
+Jliparraguirre,jonatan iparraguirre,Lima - Peru,Free,2,0,0,0.0,4888,0.15,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4791.0,False
+jpuppo,JavPuppo,"lima, peru",,2,0,0,0.0,4902,0.15,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,89.0,True
+rc800052,Ricardo J. Campos L.,Lima Peru,LAIVE S.A.,4,1,10,0.25,4889,0.3,0,1,0.0,1,21,C#,Java,,2,0,,0.0,0.0,1,4777.0,False
+icprojects,Carlos Acosta,"Peru, Lima",IC projects,1,1,0,1.0,4908,0.07,0,0,0.0,1,1,PHP,,,1,0,,0.0,0.0,0,4903.0,False
+atsuha,Augusto,"Lima, Peru.",,3,0,1,0.0,4912,0.22,0,0,0.0,0,2,Java,,,1,0,,0.0,0.0,0,3930.0,False
+GarbageLabs,Garbage Labs,"Arequipa, Peru",,0,0,0,0.0,4903,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+cmendezga,César Méndez,"Lima, Lima, Peru",Wadext,1,0,0,0.0,4889,0.07,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,810.0,False
+mriscoc,Miguel Risco-Castillo,"Lima, Peru",PULSAR,33,3529,566,106.94,4875,2.47,1110,2,555.0,8,5771,Pascal,VHDL,C++,13,3,C,0.0,0.45,23,2.0,True
+erickorlando,Erick Orlando ©,Peru,,67,108,42,1.61,4856,5.04,113,13,8.69,5,305,C#,HTML,JavaScript,7,4,G,0.0,0.28,4,69.0,True
+El-Palomo,Omar Palomino,"Lima, Peru",Kunak Consulting SAC,38,29,7,0.76,4880,2.84,28,0,28.0,2,71,Python,,,1,1,J,0.0,0.0,0,1163.0,False
+bryanjhv,Bryan Horna,"Lima, Peru",,28,265,51,9.46,4872,2.1,25,14,1.79,3,392,JavaScript,TypeScript,PHP,9,1,J,0.0,0.61,10,118.0,False
+gogodr,Gonzalo Diaz,"Lima, Peru",,6,175,38,29.17,4875,0.45,14,1,14.0,2,265,JavaScript,Python,,2,2,R,0.0,0.17,4,64.0,True
+JamesReate,James Reategui,"Detroit, MI / Lima, Peru / NYC","DIMO, Materia",3,2,0,0.67,4857,0.23,8,5,1.6,1,10,Go,,,1,0,,0.0,0.67,0,15.0,True
+dfromero,Diego Romero,Peru,,10,0,0,0.0,4859,0.75,7,9,0.78,0,7,JavaScript,TypeScript,HTML,4,0,,0.0,0.1,0,116.0,False
+alfmacedo,Alfonso Macedo,Peru,,3,0,0,0.0,4877,0.22,4,5,0.8,0,4,Ruby,,,1,0,,0.0,1.0,0,2085.0,False
+arroyopaz,Antonio Arroyo Paz,Peru,,5,0,0,0.0,4867,0.37,3,6,0.5,0,3,Python,JavaScript,,2,0,,0.0,0.0,0,212.0,False
+ederlazaro,Oscar Lazaro,"Lima, PERU",,5,0,0,0.0,4851,0.38,2,1,2.0,0,2,JavaScript,C#,,2,0,,0.0,1.0,0,1572.0,False
+chowzenwan,Eme Mora,"Lima, Peru",Yarkan SAC,5,1,0,0.2,4872,0.37,2,1,2.0,1,3,Go,Game Maker Language,,2,0,,0.0,0.0,0,2761.0,False
+brainybots,brainybots,"Lima, Peru",Swartz Lab,12,0,0,0.0,4881,0.9,2,1,2.0,0,2,C#,Vue,,2,0,,0.0,0.08,31,1164.0,False
+katador,Orestes villavicencio,Peru - lima,katador,14,0,2,0.0,4860,1.05,1,1,1.0,0,5,JavaScript,Vue,Java,4,0,,0.0,0.21,1,454.0,False
+nicolascabieses,Nicolas Cabieses,Peru,Cluster,8,0,0,0.0,4869,0.6,1,0,1.0,0,1,JavaScript,HTML,PHP,4,0,,0.0,0.38,0,1136.0,False
+jgranados,Jimmy Granados,PERU,,4,0,7,0.0,4868,0.3,1,2,0.5,0,15,,,,0,0,,0.0,0.0,0,1115.0,False
+FranklinXPe,Franklin Quispe,Lima - Peru,,20,0,0,0.0,4878,1.5,1,0,1.0,0,1,Java,Vue,HTML,3,0,,0.0,0.05,139,348.0,False
+max-macalupu,Max Macalupu ,"Lima, Peru",,14,0,1,0.0,4864,1.05,1,2,0.5,0,3,Java,Shell,Dockerfile,5,0,,0.0,0.07,2,283.0,False
+lrojasaranda,Leonel Rojas,"Lima, Peru",UTP,7,0,0,0.0,4872,0.52,0,0,0.0,0,0,Java,C#,JavaScript,3,0,,0.0,0.29,0,964.0,False
+rleon001,Leonardo,"Lima, Peru",,0,0,0,0.0,4855,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+eveliz,Edgardo Veliz Limas,"Lima, Peru",,9,0,0,0.0,4856,0.68,0,1,0.0,0,0,R,Python,Shell,3,0,,0.0,0.11,0,1278.0,False
+lcabreraro,Luis Cabrera Rosillo,peru,traza sac,1,0,0,0.0,4871,0.07,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,1186.0,False
+javiercondor,Javier Condor,Peru,IT&B Consulting,1,1,0,1.0,4857,0.08,0,1,0.0,1,1,C#,,,1,0,,0.0,0.0,0,589.0,False
+josuehcordova,Josue,"Lima, Peru",,6,0,0,0.0,4852,0.45,0,0,0.0,0,0,Shell,CSS,HTML,4,0,,0.0,0.0,0,2796.0,False
+jastonitas,Jean Paul Astonitas,Lima - Peru,,14,0,0,0.0,4875,1.05,0,0,0.0,0,0,Java,Shell,Python,6,0,,0.0,0.14,17,11.0,True
+walaperu,Wala.pe,Peru,Wala.pe,0,0,0,0.0,4881,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+gcoronelc,Eric Gustavo Coronel Castillo,PERU,,298,211,183,0.71,4825,22.54,310,0,310.0,5,887,Java,TSQL,C++,13,3,P,0.0,0.0,2,16.0,True
+alfredogama,Alfredo Gama,Peru,Virtual Labs,12,1,0,0.08,4836,0.91,21,107,0.2,1,22,Python,HTML,PHP,5,0,,0.0,0.0,0,329.0,False
+marlontaro,Marlon Cordova,Peru,Soen Perú SAC,16,5,1,0.31,4833,1.21,16,70,0.23,1,23,C#,Java,JavaScript,4,1,J,0.0,0.12,3,408.0,False
+karlitoz007,Carlos J. Rojas Reyes,"Lima, Peru",@Google,5,2,1,0.4,4850,0.38,15,4,3.75,1,19,C#,,,1,0,,0.0,0.2,4,2068.0,False
+kodewp,Miguel Fuentes,Lima - PERU,KODEWP,2,0,0,0.0,4830,0.15,8,13,0.62,0,8,,,,0,0,,0.0,0.0,0,3755.0,False
+devfar,Giam Farfan,"Lima, Peru",,2,0,0,0.0,4839,0.15,6,34,0.18,0,6,HTML,C#,,2,0,,0.0,0.0,0,1842.0,False
+znoOb,isDaniel,peru,,2,0,0,0.0,4822,0.15,3,11,0.27,0,3,JavaScript,,,1,0,,0.0,0.0,0,1750.0,False
+emersonmadrid,EMERSON MADRID HERRERA,"Lima, Peru",,21,1,0,0.05,4836,1.58,3,2,1.5,1,4,JavaScript,Python,HTML,7,0,,0.0,0.19,16,9.0,True
+soldochris,Christian Soldevilla,Peru,,59,0,0,0.0,4835,4.45,3,9,0.33,0,3,HTML,JavaScript,CSS,8,0,,0.0,0.07,3,72.0,True
+rodryg,Rodrigo Yrigoyen Gonzales,"Arequipa, Peru",pinkxel.com,5,1,0,0.2,4851,0.38,2,1,2.0,1,3,JavaScript,TypeScript,,2,0,,0.0,0.2,0,392.0,False
+rcelino,Roy Celino,Lima - Peru,Consultora C y O Asociados,3,0,0,0.0,4833,0.23,2,0,2.0,0,2,HTML,,,1,0,,0.0,0.0,0,2869.0,False
+lazorsa,Luis,Peru,@UNMSM_,6,0,0,0.0,4826,0.45,1,2,0.5,0,1,Java,HTML,,2,0,,0.0,0.17,0,658.0,False
+shiguemitsu,Enrique Kishimoto,"Lima, Peru",,2,3,0,1.5,4832,0.15,1,7,0.14,1,4,Python,Jupyter Notebook,,2,1,J,0.0,0.0,0,900.0,False
+netog,Ernesto Guevara,"Lima, Peru",,2,0,0,0.0,4847,0.15,1,0,1.0,0,1,Rust,JavaScript,,2,0,,0.0,0.0,0,608.0,False
+gustavo81988,Gustavo,"Lima, Peru",Overall,13,0,0,0.0,4848,0.98,1,3,0.33,0,1,JavaScript,PHP,Visual Basic 6.0,3,0,,0.0,0.0,0,1053.0,False
+attakon,Moises Quineche,Peru,,1,0,0,0.0,4848,0.08,1,3,0.33,0,1,PHP,,,1,0,,0.0,0.0,0,4848.0,False
+zcastle,Julio Castillo,Peru,OpenBusiness,18,1,0,0.06,4833,1.36,1,2,0.5,1,2,PHP,Java,JavaScript,6,0,,0.0,0.06,0,248.0,False
+andresm3,Andres Molero,"Lima, Peru",,20,0,0,0.0,4828,1.51,1,9,0.11,0,1,Java,JavaScript,Python,4,0,,0.0,0.0,0,207.0,False
+veronny,Veronny Jhony Morales Castillo,Peru,Fouger ,46,2,0,0.04,4842,3.47,0,2,0.0,1,2,JavaScript,PHP,Python,6,1,Q,0.0,0.09,83,319.0,False
+triplux,Michael Green,Peru,,0,0,0,0.0,4849,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+chasiv,Charles Wilkins,"Peru, Maine USA",,0,0,0,0.0,4846,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+varoni321,josue paucar,"lima, peru",Inventar Inc,1,0,0,0.0,4850,0.08,0,2,0.0,0,0,,,,0,0,,0.0,0.0,0,4849.0,False
+TeO786,Teófilo,Peru,infoluana,0,0,0,0.0,4832,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+arantas,Carlos Sarmiento,"Lima, Peru",,2,0,0,0.0,4829,0.15,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.5,0,4210.0,False
+juliocesarlhg,Julio Cesar Huayta Garcia,PERU,INNOVA SYSTEMS PERU,0,0,0,0.0,4827,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+rsconchaq,Reynaldo,Peru - Lima,GfK Perú,4,0,0,0.0,4830,0.3,0,0,0.0,0,0,JavaScript,Shell,PHP,3,0,,0.0,0.0,0,172.0,False
+RadioTopStudio,Radio Top Studio,Peru,Radio Top Studio,0,0,0,0.0,4822,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+percysl,,Peru,,0,0,0,0.0,4837,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+lenin2486, Repositorio Lenin Gamonal,Peru,Disa Cajamarca,1,0,0,0.0,4833,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4833.0,False
+Alpakaandmore,alpakaandmore,Lima/Peru,Alpakaandmore,2,2,0,1.0,4835,0.15,0,0,0.0,1,2,,,,0,0,,0.0,0.0,0,4832.0,False
+WelsTheory,Wels Theory,Lima Peru,@IGP_ROJ,66,167,172,2.53,4808,5.01,172,46,3.74,4,683,C,SWIG,Python,14,3,C,0.0,0.08,3,8.0,True
+edwinpgm,Edwin Gonzales,"Trujillo, Peru",,11,12,4,1.09,4810,0.83,60,27,2.22,2,80,JavaScript,TypeScript,SCSS,4,1,J,0.0,0.27,16,531.0,False
+lvaldivia,Luis,"Lima, Peru",Masuno,91,28,29,0.31,4814,6.9,53,9,5.89,2,139,JavaScript,C,C++,11,2,J,0.0,0.01,134,14.0,True
+asullom,Angel Sullon,"Juliaca, Peru",,17,1,3,0.06,4805,1.29,42,0,42.0,1,49,Python,Java,JavaScript,5,0,,0.0,0.0,2,3258.0,False
+claudiamp,Claudia Márquez,"Lima, Peru",Caleidos,4,2,4,0.5,4803,0.3,27,3,9.0,1,37,Jupyter Notebook,JavaScript,PHP,4,1,J,0.0,0.0,23,543.0,False
+piscosour,Eduardo Marisca,"Lima, Peru",La Victoria Lab,18,3,2,0.17,4795,1.37,12,9,1.33,1,19,Python,HTML,JavaScript,5,1,J,0.0,0.0,13,1938.0,False
+ACMUCSP,UCSP ACM Student Chapter,"Arequipa, Peru",,9,10,1,1.11,4806,0.68,7,0,7.0,2,19,HTML,CSS,Lua,4,2,R,0.0,0.33,9,1087.0,False
+Qaysen,Qaysen,"Trujillo, Peru",Qaysen SRL,17,6,12,0.35,4815,1.29,6,2,3.0,2,36,Python,JavaScript,PHP,3,1,P,0.0,0.12,0,4638.0,False
+fernung,Ryan Fernung,"Peru, IN",Intellectual Technologies Inc.,9,14,2,1.56,4790,0.69,3,5,0.6,1,21,C#,C,,2,1,M,0.0,0.0,0,1095.0,False
+azeroth,reneacero,peru,aesoft,5,0,0,0.0,4813,0.38,2,6,0.33,0,2,PHP,,,1,0,,0.0,0.0,0,4773.0,False
+gmcentenom,Gilmar Mauricio Centeno Mejia,Peru,Uopeople,5,0,0,0.0,4819,0.38,1,1,1.0,0,1,Python,HTML,R,3,0,,0.0,0.0,0,1241.0,False
+alejandrottq,Alejandro Ttupa Quispe,Cusco - Peru,ABLY PERU ,7,0,0,0.0,4796,0.53,1,2,0.5,0,1,HTML,JavaScript,,2,0,,0.0,0.29,0,16.0,True
+gerardomestanza,gerardomestanza,"Lima, Peru",Fabian Analytics,1,0,0,0.0,4805,0.08,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,991.0,False
+shuaman,Susan Huaman,Lima Peru,UPC,1,0,0,0.0,4792,0.08,0,0,0.0,0,0,C#,,,1,0,,0.0,0.0,0,4790.0,False
+jloayzamu,Jonathan Loayza,Peru,tellamalaweb.com,0,0,0,0.0,4811,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+yanluijavier,Yanlui Alarcon,Arequipa - Peru,,0,0,0,0.0,4806,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+marlenkpop,linda marlen,"lima,peru ",shinee,0,0,0,0.0,4793,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+patricioprv,Patricio,Lima / Peru,,1,0,0,0.0,4798,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,2117.0,False
+YetsuPe,YetsuPe,chiclayo - Peru,,16,3,7,0.19,4792,1.22,0,0,0.0,1,17,JavaScript,CSS,,2,1,J,0.0,0.25,0,4087.0,False
+miguelruiza,Miguel Ruiz Adarmes,Peru,,3,0,0,0.0,4792,0.23,0,1,0.0,0,0,Python,Java,HTML,3,0,,0.0,0.0,0,282.0,False
+xcarlosperu,,Peru,,2,0,0,0.0,4817,0.15,0,1,0.0,0,0,Java,,,1,0,,0.0,0.0,0,1626.0,False
+herbertmb,Herbert Montañez,Peru,ELSE,1,0,0,0.0,4793,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,3202.0,False
+isantisteban,Ingrid ,"Lima, Peru",,0,0,0,0.0,4796,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jriverox,Jhony Rivero,"Lima, Peru",,39,14,3,0.36,4771,2.98,17,21,0.81,2,37,JavaScript,Python,TypeScript,5,2,J,0.0,0.13,34,0.0,True
+sagitarius29,Adolfo Cuadros,Peru,,19,8,4,0.42,4772,1.45,6,3,2.0,2,22,PHP,Vue,JavaScript,3,2,K,0.0,0.42,56,753.0,False
+chrisfs313,Cristian F. Shute,Peru,Shute Technologies,8,1,0,0.12,4768,0.61,3,2,1.5,1,4,JavaScript,Shell,C#,4,0,,0.0,0.62,0,1030.0,False
+sanchezbaofj,Francisco Jose Sanchez Bao,Lima Peru,,1,0,0,0.0,4764,0.08,2,0,2.0,0,2,,,,0,0,,0.0,0.0,0,4764.0,False
+luziiann,Joel Luciano,PERU,,2,0,1,0.0,4781,0.15,1,1,1.0,0,3,,,,0,0,,0.0,0.0,1,4773.0,False
+vlaem,Alvaro Ccatamayo,Peru,,1,3,0,3.0,4773,0.08,1,0,1.0,1,4,TypeScript,,,1,1,J,0.0,0.0,0,568.0,False
+Ferdo,Fernando Alcantara,Peru,,1,0,0,0.0,4781,0.08,1,5,0.2,0,1,,,,0,0,,0.0,0.0,0,4780.0,False
+neutromancer,Sergio Le Roux,"Lima, Peru",,4,2,3,0.5,4789,0.3,1,0,1.0,1,9,JavaScript,Pascal,,2,0,,0.0,0.5,1,176.0,False
+jesus-zevallos-nex,Jesús Zevallos Arias,"Lima, Peru",,2,0,0,0.0,4788,0.15,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,4788.0,False
+rasecto,Cesar Alberto,peru,,3,0,0,0.0,4787,0.23,0,0,0.0,0,0,JavaScript,,,1,0,,0.0,0.0,0,4707.0,False
+ctrelles,Cesar Trelles Chingay,Peru,,0,0,0,0.0,4779,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+GorillaSoft,Gorilla Soft,Lima - Peru,,2,0,0,0.0,4771,0.15,0,0,0.0,0,0,,,,0,0,,0.0,1.0,0,113.0,False
+fromerol,PaLy,Peru,,0,0,0,0.0,4766,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+esarmientoe,Eduardo Sarmiento,Peru,,0,0,0,0.0,4786,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+AlejandroAvila,Alejandro A.,Peru,,0,0,0,0.0,4780,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+doAdventures,Cristian,Cusco - Peru,Do Adventures S.r.l (Peru  Adventure Travel Company),2,2,0,1.0,4784,0.15,0,0,0.0,1,2,,,,0,0,,0.0,0.0,0,4784.0,False
+kjetils,Kjetil Sørbø,Peru,,1,0,0,0.0,4772,0.08,0,0,0.0,0,0,PHP,,,1,0,,0.0,1.0,0,4593.0,False
+juliocampos,Julio Campos,"Lima, Peru",,0,0,0,0.0,4789,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+waltersud,Walter Arevalo,Peru ,waltersud,18,0,0,0.0,4787,1.37,0,0,0.0,0,0,PHP,HTML,Python,6,0,,0.0,0.17,0,267.0,False
+pixelycodigo,pixelycodigo,Lima - Peru,,3,0,0,0.0,4783,0.23,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,0.0,True
+echavez23,Erik César,Lima - Peru ,,0,0,0,0.0,4769,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+derekcrosslu,Derek Cross,"Lima, Peru",UTEC VENTURES,13,2,1,0.15,4754,1.0,29,51,0.57,1,33,TypeScript,JavaScript,Jupyter Notebook,4,0,,0.0,0.08,0,10.0,True
+luismoriguerra,Luis Mori Guerra,Peru,,230,19,6,0.08,4758,17.64,28,26,1.08,2,59,JavaScript,TypeScript,Python,19,1,J,0.0,0.09,33,17.0,True
+alonsogodinez,Alonso Godinez,Peru,,19,10,7,0.53,4750,1.46,20,7,2.86,2,44,JavaScript,HTML,Python,6,3,K,0.0,0.16,100,1164.0,False
+aldriguz,Kevin Alama,"Trujillo, Peru",,32,27,7,0.84,4748,2.46,17,67,0.25,2,58,C#,JavaScript,PHP,11,2,J,0.0,0.28,30,262.0,False
+pieromarini,Piero Marini,"Lima, Peru",,17,31,6,1.82,4758,1.3,13,1,13.0,2,56,C++,Python,HTML,6,2,R,0.0,0.35,1,40.0,True
+DeivyPereira,Gregoris Pereira,Peru,Venetronic,24,8,6,0.33,4736,1.85,12,61,0.2,2,32,JavaScript,TypeScript,PHP,6,1,R,0.0,0.21,1,147.0,False
+aschavez,Andres Chavez,"Lima, Peru",,12,7,5,0.58,4735,0.93,4,4,1.0,1,21,Python,JavaScript,TypeScript,4,1,J,0.0,0.08,0,1044.0,False
+jsuperh,Josué,Lima Peru,,16,0,0,0.0,4751,1.23,4,9,0.44,0,4,Java,HTML,JavaScript,3,0,,0.0,0.0,0,744.0,False
+jorgged,JorgeGD,Peru,,0,0,0,0.0,4736,0.0,2,9,0.22,0,2,,,,0,0,,0.0,0.0,0,,False
+Druidsnake,Ricardo Aguinaga,Lima - Peru,,7,0,0,0.0,4755,0.54,2,2,1.0,0,2,HTML,JavaScript,Shell,5,0,,0.0,0.14,1,124.0,False
+vhidalgo,Vladimir Hidalgo,"LIMA, PERU",,0,0,0,0.0,4738,0.0,2,4,0.5,0,2,,,,0,0,,0.0,0.0,0,,False
+vorellana,Victor Orellana Meza,Lima - Peru,En Libre,26,0,0,0.0,4739,2.0,2,1,2.0,0,2,JavaScript,HTML,C#,6,0,,0.0,0.0,0,710.0,False
+ccarrenovi,Carlos Carreno,"Lima, Peru",Red hat,21,4,4,0.19,4737,1.62,2,5,0.4,1,14,Java,JavaScript,HTML,4,1,P,0.0,0.0,0,916.0,False
+ocarril,Orlando Carril Ramirez,LIMA - PERU,CROM Systems,5,0,2,0.0,4754,0.38,2,0,2.0,0,6,C#,JavaScript,,2,0,,0.0,0.0,1,29.0,True
+LlamaToursPeru,Peru Trekking,Cusco Peru,LLama Online Tour Peru SRL,1,0,0,0.0,4750,0.08,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,4750.0,False
+kefencho,Kenny Asto Hinostroza,"Ayacucho, Peru",AyacSoft,5,0,1,0.0,4745,0.38,1,1,1.0,0,3,Java,JavaScript,HTML,3,0,,0.0,0.0,0,879.0,False
+armandoaepp,Armando Enrique Pisfil Puemape,"Chiclayo, Lambayeque, Peru",,44,15,19,0.34,4746,3.38,1,0,1.0,2,54,PHP,JavaScript,CSS,7,2,J,0.0,0.0,1,216.0,False
+andres04,Andres Escobar,Lima - Peru,Hexagonsys,6,2,1,0.33,4739,0.46,1,0,1.0,1,5,Kotlin,Java,,2,0,,0.0,0.33,0,681.0,False
+cvillegas,Cesar Villegas Ureta,"Lima, Peru",,13,3,0,0.23,4756,1.0,1,2,0.5,1,4,TypeScript,Python,Shell,9,1,J,0.0,0.46,0,67.0,True
+luis199230,Luis Benavides,Peru,,16,0,0,0.0,4755,1.23,1,4,0.25,0,1,PHP,TypeScript,JavaScript,5,0,,0.0,0.31,9,211.0,False
+davidcama,David Cama,Peru,Bongous,0,0,0,0.0,4739,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+cmendez,Christian Mendez,Peru,,3,0,1,0.0,4739,0.23,0,0,0.0,0,2,TypeScript,PHP,Python,3,0,,0.0,0.33,0,115.0,False
+iriosromani,Israel Rios,Lima Peru,Freelancer,0,0,0,0.0,4742,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+rojasmhg,Harold Rojas Martinez,Peru,,3,0,0,0.0,4743,0.23,0,0,0.0,0,0,PowerShell,JavaScript,,2,0,,0.0,0.0,0,109.0,False
+Pat-Ser,Patrick Serru,"Chiclayo, Peru",,1,0,0,0.0,4751,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,4,3694.0,False
+jesusjrcardenas,Jesus A. Cardenas T,Lima Peru,,7,0,0,0.0,4743,0.54,0,0,0.0,0,0,Java,HTML,,2,0,,0.0,0.0,0,2013.0,False
+raphaelclaudio,Rafael Fernandez Crossetty,"Lima, Peru",RFC Inmuebles,0,0,0,0.0,4740,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+dannylizcano,Daniela Lizcano López,"Lima, Peru",,0,0,0,0.0,4745,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+invictvs,Bryan Valdez,Peru,,3,0,0,0.0,4757,0.23,0,0,0.0,0,0,Python,,,1,0,,0.0,0.0,0,4250.0,False
+enriqueavya,Enrique Avalos,Peru,Lucumatech,0,0,0,0.0,4745,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+RoDriGraphic,Rodrigo Lizarbe,Lima - Peru,,0,0,0,0.0,4738,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+agamarra88,Arturo Gamarra,Lima - Peru,,12,0,0,0.0,4758,0.92,0,3,0.0,0,0,Swift,Objective-C,C#,3,0,,0.0,0.17,0,1811.0,False
+jesussandovalprieto,Jesus Sandoval,"Lima, Peru",,6,0,0,0.0,4744,0.46,0,1,0.0,0,0,Java,TypeScript,,2,0,,0.0,0.0,8,1549.0,False
+jsocola,,"Lima, Peru",Socosoft,0,0,0,0.0,4740,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+paulgin18,Gino Paul Gonzales Custodio,PERU,,7,0,0,0.0,4761,0.54,0,0,0.0,0,0,JavaScript,CSS,,2,0,,0.0,0.57,0,233.0,False
+apeisc,APEISC,Peru,,1,0,0,0.0,4743,0.08,0,0,0.0,0,0,Python,,,1,0,,0.0,0.0,0,4571.0,False
+pacoyx,Carlos Javier Bazan Huaman,Peru ,Dexter Laundry Service,60,3,3,0.05,4760,4.6,0,1,0.0,1,9,TypeScript,C#,JavaScript,7,0,,0.0,0.02,35,191.0,False
+KattyaCuevas,Kattya Cuevas,Peru,,43,16,8,0.37,4714,3.33,200,75,2.67,2,232,Ruby,Python,JavaScript,6,2,J,0.0,0.05,92,40.0,True
+bjrmatos,BJR Matos,"Lima, Peru",,56,333,56,5.95,4705,4.34,155,38,4.08,7,600,JavaScript,HTML,CSS,6,2,J,0.0,0.43,170,49.0,True
+mig1098,miglio esaud,"Peru, Lima",,25,13,11,0.52,4721,1.93,33,76,0.43,1,68,PHP,JavaScript,HTML,5,1,G,0.0,0.16,1,1845.0,False
+coloradomarin,Herman Marin,"Lima, Peru",Laboratoria,0,0,0,0.0,4708,0.0,28,2,14.0,0,28,,,,0,0,,0.0,0.0,0,,False
+jwilliamn,Jaspers W. Huanay,"Lima, Peru",Giscia Research Lab,27,17,9,0.63,4709,2.09,19,15,1.27,2,54,Python,Jupyter Notebook,R,3,2,M,0.0,0.26,5,647.0,False
+cristianpalomino,Cristian Palomino,Peru,,3,5,3,1.67,4715,0.23,10,8,1.25,1,21,HTML,Swift,,2,1,J,0.0,0.33,13,71.0,True
+czegarram,Cesar Zegarra,"Lima, Peru",@Probaar-Dev ,26,5,4,0.19,4723,2.01,9,10,0.9,2,22,JavaScript,CSS,Java,7,2,J,0.0,0.12,1,1633.0,False
+luissardon,Luis Sardon,Lima - Peru,Authentic Digital,16,10,1,0.62,4702,1.24,9,6,1.5,2,21,JavaScript,TypeScript,HTML,4,1,J,0.0,0.44,9,1164.0,False
+hatuhay,Alberto,Peru,DF Group,31,13,3,0.42,4725,2.39,8,0,8.0,1,27,PHP,JavaScript,CSS,4,1,J,0.0,0.13,13,22.0,True
+MrFrancOSX,Franco,"Lima, Peru",Tutto Solutions Group,9,0,0,0.0,4717,0.7,6,13,0.46,0,6,HTML,JavaScript,CSS,4,0,,0.0,0.0,86,1163.0,False
+gfernandez-engineer,Gian Fernandez,"Lima, Peru",,39,1,0,0.03,4720,3.02,6,9,0.67,1,7,Java,JavaScript,HTML,5,0,,0.0,0.03,0,4.0,True
+Antergos,antergos,"Spain, Peru, USA",,45,856,359,19.02,4710,3.49,5,0,5.0,9,1579,Python,Shell,JavaScript,8,3,J,0.0,0.73,702,2490.0,False
+lfam200,Luis Abanto,Peru,,10,0,0,0.0,4708,0.78,4,3,1.33,0,4,JavaScript,PHP,TypeScript,3,0,,0.0,0.0,0,36.0,True
+bafmay,Brian Alvis,"Lima, Peru",,25,0,1,0.0,4710,1.94,4,26,0.15,0,6,Dart,Kotlin,JavaScript,5,0,,0.0,0.08,0,119.0,False
+sofids,Julia Davila Salcedo,Peru,,2,2,2,1.0,4714,0.15,4,2,2.0,1,10,Jupyter Notebook,Python,,2,1,R,0.0,0.0,0,1926.0,False
+pcurich,Pedro Curich,Peru,,47,2,0,0.04,4710,3.64,2,11,0.18,1,4,C#,JavaScript,HTML,10,0,,0.0,0.19,44,0.0,True
+giancarlogamarra,Giancarlo Gamarra,Arequipa - Peru,,15,0,2,0.0,4705,1.16,2,3,0.67,0,6,C#,TypeScript,HTML,3,0,,0.0,0.0,2,2160.0,False
+YanluiAlarcon,Yanlui Javier,"Arequipa, Peru",UCSP,3,0,0,0.0,4721,0.23,1,1,1.0,0,1,C++,,,1,0,,0.0,0.0,0,2746.0,False
+romswell,Romswell Roswell Parian Paucar,peru,romswellparian,0,0,0,0.0,4723,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+RafaelMendez,Eyner ,"Arequipa, Peru",,1,0,0,0.0,4725,0.08,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,4696.0,False
+cgutierrezr,Carlos Gutierrez Ronceros,Peru,,5,0,0,0.0,4716,0.39,1,4,0.25,0,1,JavaScript,PHP,,2,0,,0.0,0.6,0,3061.0,False
+carlosvidal,Carlos Vidal,"Lima, Peru",MiTienda.pe,34,5,1,0.15,4715,2.63,1,7,0.14,1,8,Vue,JavaScript,HTML,11,1,R,0.0,0.15,2,4.0,True
+pedrofmb,Pedro More,Peru,,8,0,0,0.0,4728,0.62,1,2,0.5,0,1,TypeScript,HTML,CSS,5,0,,0.0,0.12,3,1478.0,False
+x4r0r,,Peru,Metasploit,1,0,0,0.0,4730,0.08,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,4730.0,False
+ptsukayama,,"Lima, Peru",Universidad Peruana Cayetano Heredia,0,0,0,0.0,4722,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+epajuelo,Edgardo,Peru,Home,2,0,0,0.0,4720,0.15,0,0,0.0,0,0,Python,,,1,0,,0.0,0.5,0,517.0,False
+lblasc18,Luis Blas,Peru,Making Sense,3,0,0,0.0,4704,0.23,0,0,0.0,0,0,Java,,,1,0,,0.0,0.0,2,749.0,False
+renatto08,,"Lima, Peru",,6,0,0,0.0,4730,0.46,0,1,0.0,0,0,JavaScript,Blade,HTML,4,0,,0.0,0.0,0,989.0,False
+JBAndreu,Javier Benavides,Peru,,1,0,0,0.0,4719,0.08,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,3901.0,False
+Angelitow,angel,peru,,7,0,0,0.0,4702,0.54,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.14,1,4327.0,False
+OscarRenato,Oscar Gomez,"Lima, Peru",racsog,17,0,0,0.0,4722,1.31,0,0,0.0,0,0,C#,JavaScript,HTML,3,0,,0.0,0.0,0,1438.0,False
+ourlimm,Ourlimm Consulting,Lima Peru,Ourlimm Consulting,0,0,0,0.0,4710,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+dfgroup,DF Group,Peru,,6,0,4,0.0,4725,0.46,0,0,0.0,0,8,PHP,HTML,,2,0,,0.0,0.5,17,3023.0,False
+jcronwellro,José Cronwell Rivera Olivera,Lima Peru,,2,0,0,0.0,4708,0.16,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,1126.0,False
+freal17,Fredy Alfonso Rojas Grau,PEru,,1,0,0,0.0,4706,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,3800.0,False
+Atonhost,sandro leonel martinez huaccho,Peru,AtomixCloud,4,0,0,0.0,4730,0.31,0,1,0.0,0,0,PHP,Blade,,2,0,,0.0,0.0,0,220.0,False
+cybertsoft,Hospital Regional Moquegua,Peru,Hospital Regional Moquegua,0,0,0,0.0,4728,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+giorgiolimo,Giorgio Limo ,Peru,www.ourlimm.com,0,0,0,0.0,4709,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+rmaldonado,Ruben Maldonado,"Lima, Peru",ColamboNet.com,14,0,0,0.0,4720,1.08,0,1,0.0,0,0,C#,Java,JavaScript,4,0,,0.0,0.14,24,1017.0,False
+guillermowilson,Guillermo Wilson Palma,peru,,1,0,0,0.0,4728,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4728.0,False
+AdrianX28,Adrian Apaza Flores,"Lima, Peru",UNMSM,0,0,0,0.0,4708,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+alexisarroyodiaz,Alexis Arroyo Diaz,Peru,Alexis Arroyo Diaz,2,0,0,0.0,4705,0.16,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4308.0,False
+theUVRA,Alex Garcia,"Lima, Peru",Neos,0,0,0,0.0,4704,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+aurbanoc94,Alvaro Urbano Cardenas,Peru,,3,0,0,0.0,4704,0.23,0,2,0.0,0,0,Python,,,1,0,,0.0,0.0,0,424.0,False
+noelojer,Noel Jarita,Peru,PayToPeru S.A.C.,5,0,0,0.0,4719,0.39,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,3397.0,False
+toni3890,Toni Vilca ,"Lima, Peru",Royal Pioneers Corporation,0,0,0,0.0,4720,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+c66,Cyril Pavillard,Lima - Peru,Coozy,1,0,0,0.0,4720,0.08,0,0,0.0,0,0,CSS,,,1,0,,0.0,0.0,0,2100.0,False
+Idonot,oscar juniorr ayoso huarcaya,Lima-Peru,,2,0,0,0.0,4711,0.15,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4710.0,False
+acondor,Alberto Cóndor,LIMA Peru,INS,7,0,0,0.0,4714,0.54,0,0,0.0,0,0,HTML,Dockerfile,TypeScript,3,0,,0.0,0.0,0,650.0,False
+olanaso,Erick Simón Escalante Olano,Lima Peru,MTC DDP,59,49,13,0.83,4679,4.6,69,108,0.64,3,144,JavaScript,HTML,TypeScript,9,3,M,0.0,0.05,129,38.0,True
+jsatch,Hernan Quintana,"Lima, Peru",Universidad de Lima,83,11,6,0.13,4670,6.49,45,1,45.0,2,68,Python,Java,JavaScript,16,2,R,0.0,0.08,13,101.0,False
+zmandel,Zig Mandel,Peru,,10,185,33,18.5,4694,0.78,37,7,5.29,4,288,JavaScript,HTML,C++,3,2,J,0.0,0.8,6,83.0,True
+larc,Luciano A. Romero Calla,"Lima, Peru",UTEC,6,88,15,14.67,4678,0.47,32,23,1.39,3,150,C++,TeX,Cuda,3,3,M,0.0,0.5,1,206.0,False
+jguillermo,Jose guillermo,Peru,GetMin,85,28,10,0.33,4690,6.62,17,0,17.0,3,65,TypeScript,PHP,JavaScript,15,3,J,0.0,0.12,5,0.0,True
+LubeckHuaman,Lubeck Huaman,peru,BairesDev,40,6,2,0.15,4690,3.11,14,23,0.61,1,24,Python,Dart,JavaScript,8,1,J,0.0,0.03,1,346.0,False
+MiguDeveloper,Miguel Angel Chinchay Huarcaya,Lima-Peru,"Spring boot 2, Angular 2+",163,2,0,0.01,4695,12.67,9,16,0.56,1,11,Java,TypeScript,JavaScript,12,0,,0.0,0.0,273,115.0,False
+pucodev,Jorge Estrada,Lima-Peru,@okchaty @dgnest ,17,12,0,0.71,4672,1.33,7,1,7.0,2,19,Java,TypeScript,Lua,8,1,J,0.0,0.24,3,3.0,True
+alvarosct02,Alvaro Santa Cruz,Peru,,46,5,9,0.11,4670,3.6,6,1,6.0,2,29,Kotlin,Java,Dart,8,2,Q,0.0,0.0,10,2.0,True
+danbarretodev,Daniel Barreto Alva,"Lima, Peru",,3,0,0,0.0,4673,0.23,5,4,1.25,0,5,Java,,,1,0,,0.0,0.0,0,4665.0,False
+williamyon,William Yon,"Lima, Peru",,4,2,1,0.5,4670,0.31,5,5,1.0,1,9,CSS,ApacheConf,HTML,3,1,J,0.0,0.0,0,3811.0,False
+rodanato,Rodrigo,Lima Peru,,6,0,14,0.0,4672,0.47,4,10,0.4,0,32,TypeScript,JavaScript,,2,0,,0.0,0.0,11,444.0,False
+soygustavogonzales,Gustavo Gonzales Davalos,lima-peru,viunex,46,2,3,0.04,4670,3.6,4,1,4.0,1,12,JavaScript,TypeScript,CSS,6,1,J,0.0,0.02,37,332.0,False
+coliveravenegas,Carlos Olivera Venegas,"Lima, Peru",,18,0,0,0.0,4670,1.41,4,5,0.8,0,4,JavaScript,TypeScript,HTML,5,0,,0.0,0.11,0,164.0,False
+jhirahoka,Jorge Hirahoka,"Lima, Peru",,0,0,0,0.0,4676,0.0,4,0,4.0,0,4,,,,0,0,,0.0,0.0,0,,False
+mrosalesdiaz,Maximo Rosales Diaz,Peru,,3,2,1,0.67,4697,0.23,3,1,3.0,1,7,JavaScript,HTML,,2,1,M,0.0,0.67,1,738.0,False
+jcruzaguidev,JC,Lima-Peru,,12,3,0,0.25,4690,0.93,3,11,0.27,1,6,TypeScript,JavaScript,Swift,4,1,J,0.0,0.0,0,1069.0,False
+beeznest,BeezNest,"Belgium, France, Spain and Peru",,9,7,10,0.78,4671,0.7,2,0,2.0,1,29,PHP,JavaScript,,2,1,P,0.0,0.89,10,3.0,True
+tonycesar,César Calle,Arequipa - Peru,,8,0,0,0.0,4688,0.62,2,0,2.0,0,2,JavaScript,TypeScript,,2,0,,0.0,0.0,0,1319.0,False
+jeangopro,Jean Cuadros,Peru,,10,0,0,0.0,4685,0.78,1,2,0.5,0,1,CSS,PHP,JavaScript,4,0,,0.0,0.3,0,550.0,False
+bautwit,Carlos,Peru,,0,0,0,0.0,4672,0.0,1,1,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+YdaMamaniAlvarez,Yda Manuela,"Lima, PERU",,9,0,0,0.0,4670,0.7,1,3,0.33,0,1,HTML,Java,,2,0,,0.0,0.0,0,557.0,False
+yaquino,Yesica Aquino,Peru,,3,0,0,0.0,4687,0.23,1,1,1.0,0,1,TypeScript,CSS,,2,0,,0.0,0.0,1,1625.0,False
+AlonzoQuio,ShardikBlaine,Peru,,6,39,12,6.5,4687,0.47,0,0,0.0,2,63,Python,C++,C#,4,1,M,0.0,0.0,0,2485.0,False
+angelorafael18,Angelo Angulo,Peru,,1,0,0,0.0,4698,0.08,0,0,0.0,0,0,,,,0,0,,0.0,1.0,0,2127.0,False
+OOliveros,,Peru,,5,0,0,0.0,4691,0.39,0,1,0.0,0,0,Java,HTML,,2,0,,0.0,0.0,0,1882.0,False
+openbusiness,OpenBusiness,Peru,,0,0,0,0.0,4678,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+UPCSoftwareDevs,UPCSoftwareDevs,Lima Peru,,0,0,0,0.0,4680,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+vvilelaj,Victor Vilela,Peru,Tranzact,39,0,3,0.0,4690,3.04,0,11,0.0,0,6,C#,TypeScript,JavaScript,7,0,,0.0,0.0,182,1018.0,False
+tiwasi,Andromeda,Piura - Piura - Peru,TIWASI SAC,1,3,2,3.0,4676,0.08,0,0,0.0,1,7,Java,,,1,1,G,0.0,0.0,0,4663.0,False
+BrunoCodex,Bruno Sanchez Oviedo,"Peru, Tumbes",@TicCenterPeru ,16,2,1,0.12,4680,1.25,0,7,0.0,1,4,CSS,HTML,TypeScript,4,0,,0.0,0.0,0,1165.0,False
+acatacora,Avelardo Catacora,Peru,,0,0,0,0.0,4673,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+wbrousset,Wendy Brousset,Arequipa - Peru,,13,0,1,0.0,4686,1.01,0,0,0.0,0,2,Java,HTML,Matlab,3,0,,0.0,0.0,0,1087.0,False
+niltonzapata,Nilton Zapata,Chiclayo - Peru,GPS,2,0,0,0.0,4680,0.16,0,2,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,4354.0,False
+RoyRodriguez,Roy Milner Choquegonza Rodriguez,"Arequipa, Peru",AndroidApps,5,1,0,0.2,4687,0.39,0,0,0.0,1,1,C,JavaScript,Java,3,0,,0.0,0.0,2,3291.0,False
+haniel007,victor ariza,peru,camay,0,0,0,0.0,4689,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+AndreCoding,Andre Alvarado Aponte,Peru,,4,0,2,0.0,4695,0.31,0,0,0.0,0,4,Java,,,1,0,,0.0,0.0,0,4058.0,False
+hiremu,Hillmer Reyes,"Lima, Peru",,0,0,0,0.0,4682,0.0,0,2,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+HDresda,Hans Dresda,Peru,,2,0,0,0.0,4693,0.16,0,0,0.0,0,0,Visual Basic,,,1,0,,0.0,0.5,0,2874.0,False
+migahu,Migahu,PERU,UPC,1,0,0,0.0,4700,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4677.0,False
+ederivero,Eduardo de Rivero Manrique,"Arequipa, Peru",RAVN,93,54,46,0.58,4646,7.31,67,12,5.58,3,213,Python,JavaScript,TypeScript,7,2,P,0.0,0.06,190,0.0,True
+infojasyrc,Jose Sal y Rosas,"Lima, Peru",,16,1,14,0.06,4643,1.26,16,10,1.6,1,45,TypeScript,JavaScript,Python,9,0,,0.0,0.06,26,24.0,True
+dev-jromero,Jonathan Romero,"huancayo,peru",Freelance,28,1,0,0.04,4668,2.19,9,36,0.25,1,10,JavaScript,TypeScript,HTML,7,0,,0.0,0.43,233,143.0,False
+jorgedison,Jorge Rodriguez Flores,Lima - Peru,,27,8,3,0.3,4651,2.12,7,8,0.88,2,21,PHP,Shell,JavaScript,10,2,K,0.0,0.04,15,30.0,True
+mccantuta,Miguel Ccantuta,"Lima, Peru",Globant,29,2,0,0.07,4646,2.28,6,0,6.0,1,8,Go,JavaScript,Java,8,0,,0.0,0.83,17,28.0,True
+DumasAyala,Dumas Ayala,"Lima, Peru",,2,0,0,0.0,4660,0.16,5,19,0.26,0,5,HTML,,,1,0,,0.0,0.5,0,294.0,False
+Eduast,Eduardo Asturrizaga,Lima-Peru,,8,0,0,0.0,4652,0.63,5,8,0.62,0,5,HTML,JavaScript,PHP,3,0,,0.0,0.0,6,1136.0,False
+HectorBudielE,Hector Budiel Echevarria,"Lima, Peru",Factored,15,0,4,0.0,4640,1.18,5,2,2.5,0,13,Jupyter Notebook,HTML,Python,7,0,,0.0,0.47,14,597.0,False
+Prometeo,Xairi,Peru,,26,0,0,0.0,4663,2.04,4,5,0.8,0,4,Python,Makefile,HTML,11,0,,0.0,0.0,2,32.0,True
+iFrancs,Alan Palomino,"Lima, Peru",,1,0,0,0.0,4656,0.08,4,15,0.27,0,4,,,,0,0,,0.0,0.0,0,1275.0,False
+Jadekin,Karen Pinzás Morrongiello,Canada | Peru,,7,1,0,0.14,4653,0.55,4,2,2.0,1,5,TypeScript,HTML,Swift,3,0,,0.0,0.57,0,99.0,False
+GDGOpenLima,GDG Open,"Lima, Peru",,14,0,3,0.0,4658,1.1,3,0,3.0,0,9,HTML,Kotlin,Java,6,0,,0.0,0.5,1,854.0,False
+mejiaej,Enrique Mejia,"Lima, Peru",,28,3,0,0.11,4656,2.2,3,1,3.0,1,6,TypeScript,JavaScript,Java,3,0,,0.0,0.07,167,38.0,True
+jhuarancca,Juan de Dios Huarancca Cahuana,"Lima, Peru",Qualifacts,30,5,0,0.17,4659,2.35,2,12,0.17,1,7,Jupyter Notebook,HTML,Python,5,0,,0.0,0.07,0,3.0,True
+ybautista,Yordan Bautista,Peru,Globant,1,0,0,0.0,4647,0.08,2,0,2.0,0,2,,,,0,0,,0.0,0.0,0,4627.0,False
+alvanxp,Alvaro Carpio,"Lima, Peru",,24,2,0,0.08,4648,1.88,1,4,0.25,1,3,C#,Go,JavaScript,8,0,,0.0,0.04,2,241.0,False
+movlim,Jorge Solis,Peru,Movlim,5,2,0,0.4,4639,0.39,1,2,0.5,1,3,Jupyter Notebook,Java,C#,3,1,O,0.0,0.0,0,884.0,False
+hudrec,HUGO DEL SOLAR ,PERU,,16,0,0,0.0,4667,1.25,1,0,1.0,0,1,Python,JavaScript,Java,5,0,,0.0,0.0,17,172.0,False
+enlil25,enlil,"Lima,Peru",,20,0,1,0.0,4665,1.56,1,5,0.2,0,3,Java,HTML,,2,0,,0.0,0.05,0,581.0,False
+rquispem,Ruben Jesus Quispe Montoya,Lima Peru,Globant,38,0,0,0.0,4662,2.98,0,1,0.0,0,0,Java,Swift,HTML,6,0,,0.0,0.0,0,348.0,False
+Morvius,Christiam Ballon,Peru,,0,0,0,0.0,4650,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+fidelgalvez,Fiden Galvez CCasani,Lima Peru,efact S.A.C.,1,0,0,0.0,4642,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4378.0,False
+jhoel,Jhoel Quispe,Peru,,8,0,0,0.0,4664,0.63,0,0,0.0,0,0,JavaScript,Python,Vim script,3,0,,0.0,0.12,4,32.0,True
+marco-teclalabs,Marco Estrella,lima - peru,Tecla Labs,1,0,0,0.0,4651,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4511.0,False
+alfa310,Diego Berolatti Gonzales,Lima Peru,,7,0,0,0.0,4664,0.55,0,0,0.0,0,0,TypeScript,JavaScript,Java,4,0,,0.0,0.57,5,1190.0,False
+carloseduxp-zz,Carlos Cabrera,"Lima, Peru",Home,0,0,0,0.0,4658,0.0,0,7,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+Obellido,Oscar Bellido Flores,Peru,,4,0,0,0.0,4651,0.31,0,0,0.0,0,0,JavaScript,CSS,,2,0,,0.0,0.0,0,308.0,False
+cesitarjones,Cesar,Peru,,1,0,0,0.0,4645,0.08,0,0,0.0,0,0,Python,,,1,0,,0.0,0.0,0,4371.0,False
+eduardo87,DarthEdward,Peru,,0,0,0,0.0,4662,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+enaquira,Eduardo Naquira,"Lima, Peru",,1,0,0,0.0,4656,0.08,0,0,0.0,0,0,C#,,,1,0,,0.0,1.0,0,260.0,False
+rsurjano,rsurjano,Lima - Peru,,7,14,9,2.0,4658,0.55,0,0,0.0,1,32,TypeScript,Python,HTML,4,1,J,0.0,0.57,2,197.0,False
+JorgeVillena,Jorge Villena,Lima - Peru,,6,0,0,0.0,4663,0.47,0,0,0.0,0,0,CSS,JavaScript,,2,0,,0.0,0.0,0,1496.0,False
+mongodbperu,MongoDB Perú,"Lima, Peru",,9,20,28,2.22,4641,0.71,0,0,0.0,2,76,CSS,JavaScript,Python,3,2,P,0.0,0.0,203,3843.0,False
+raulodria,Raul Odria,Peru,,5,0,0,0.0,4650,0.39,0,0,0.0,0,0,Shell,,,1,0,,0.0,0.2,0,227.0,False
+viawebcenter,Francisco Reyes,"Lima, Peru",Visual Media Business SAC,11,0,0,0.0,4649,0.86,0,0,0.0,0,0,JavaScript,CSS,HTML,3,0,,0.0,0.0,0,510.0,False
+Hecelta,Hecelta,Peru,,1,0,0,0.0,4655,0.08,0,0,0.0,0,0,PHP,,,1,0,,0.0,0.0,0,3508.0,False
+Sike92,Jhosue,peru,URP,0,0,0,0.0,4645,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+alexanderpaz,Alexander Paz,Peru,@EstrategiaUno ,15,3,0,0.2,4647,1.18,0,0,0.0,1,3,Jupyter Notebook,JavaScript,HTML,4,1,P,0.0,0.47,0,150.0,False
+jumanor,Jorge Cotrado,"Tacna, Peru",KaminoSoft,20,52,34,2.6,4635,1.57,15,0,15.0,4,135,Java,JavaScript,HTML,6,4,J,0.0,0.3,0,130.0,False
+DanteCavero,Dante Cavero,"Lima, Peru",,3,0,0,0.0,4639,0.24,6,6,1.0,0,6,,,,0,0,,0.0,0.33,0,1430.0,False
+colc1608,Cesar Lopez,Peru,COLC,23,1,4,0.04,4618,1.82,5,10,0.5,1,14,Java,C#,CSS,7,0,,0.0,0.04,0,30.0,True
+smithasencios,shumaha smith asencios,"Lima, peru",,13,0,1,0.0,4609,1.03,5,11,0.45,0,7,TypeScript,C#,Go,4,0,,0.0,0.0,37,39.0,True
+jeysonfuentes,Jeyson Fuentes Alfaro,"Tacna, Peru",Shipx,13,0,0,0.0,4629,1.03,3,4,0.75,0,3,TypeScript,C#,HTML,4,0,,0.0,0.0,8,1058.0,False
+rodframeh,Rodrigo Mendoza Melgar,Peru,MDZ Technology,13,0,1,0.0,4632,1.02,3,0,3.0,0,5,Java,Rust,HTML,6,0,,0.0,0.23,0,897.0,False
+JohnPorrasR,John Porras R,"Lima, Peru",freelance,38,0,0,0.0,4635,2.99,2,1,2.0,0,2,PHP,HTML,Java,10,0,,0.0,0.08,63,158.0,False
+jgalvezf,Jorge Galvez,Peru,Information Technology Consulting,4,0,0,0.0,4626,0.32,1,4,0.25,0,1,CAP CDS,Jupyter Notebook,,2,0,,0.0,0.25,0,54.0,True
+StuartAlllen,Stuart Mark Allen,"Lima, Peru",,0,0,0,0.0,4618,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+tonistation,Jose Rivas,"Lima, Peru",MiBot,8,0,0,0.0,4611,0.63,1,1,1.0,0,1,Dart,JavaScript,,2,0,,0.0,0.0,11,37.0,True
+josseas,Josse AS,Peru,,11,0,0,0.0,4620,0.87,1,0,1.0,0,1,TypeScript,HTML,JavaScript,4,0,,0.0,0.18,116,806.0,False
+marzioperez,Marzio Perez,"Lima, Peru",,2,2,0,1.0,4618,0.16,1,0,1.0,1,3,PHP,Blade,,2,1,J,0.0,0.0,0,2.0,True
+juanalmenara27,Juan Almenara,"Lima, Peru",,1,0,0,0.0,4632,0.08,0,0,0.0,0,0,LabVIEW,,,1,0,,0.0,0.0,0,1084.0,False
+ivantxd,ivan,peru,,3,0,0,0.0,4634,0.24,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,101.0,False
+humbertosalardi,Humberto Salardi,Lima Peru,Power IT,0,0,0,0.0,4637,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+anthony52790,anthony,Peru,,4,0,0,0.0,4629,0.32,0,0,0.0,0,0,JavaScript,TypeScript,HTML,3,0,,0.0,0.0,0,396.0,False
+JhonSoto,¥e_£urai,Peru - Lima - Comas,,0,0,0,0.0,4624,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+orlandoaguirreh,Orlando,Peru,orlandoaguirreh,2,0,0,0.0,4634,0.16,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,1553.0,False
+yvpadilla,Yuri,Peru,,6,1,0,0.17,4613,0.47,0,2,0.0,1,1,Java,HTML,,2,0,,0.0,0.0,0,1535.0,False
+yersyn,YERSYN S. M.,Peru,Solmakh,10,2,0,0.2,4620,0.79,0,0,0.0,1,2,Dart,Kotlin,Python,7,1,G,0.0,0.2,0,68.0,True
+gardo984,Manuel Lazo,"Lima, Peru",,1,0,0,0.0,4633,0.08,0,3,0.0,0,0,Python,,,1,0,,0.0,1.0,2,1421.0,False
+viringo,Angela Prado,Peru,De Mujer a Mujer,0,0,0,0.0,4628,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+renziito,Renziito Aliaga,"Lima, Peru",StreamElements,14,7,1,0.5,4631,1.1,0,0,0.0,1,9,JavaScript,PHP,CSS,4,1,J,0.0,0.21,7,312.0,False
+chavezalvaro,Alvaro Chavez,Peru,Hiper S.A.,0,0,0,0.0,4618,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+anibalex,Alex Gutierrez,Ica Peru,,0,0,0,0.0,4610,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+nelsonherrera,Nelson Andre Herrera Portocarrero,Peru,,6,0,0,0.0,4639,0.47,0,0,0.0,0,0,JavaScript,CSS,,2,0,,0.0,0.17,0,2003.0,False
+mentallion,Mark Honors,Peru,,0,0,0,0.0,4634,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+casocr,Caleb Sosa,"Lima, Peru",Tranzact,1,0,0,0.0,4608,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4608.0,False
+lsupoo,Luis Supo,Lima - Peru,,14,0,0,0.0,4623,1.11,0,0,0.0,0,0,JavaScript,HTML,TypeScript,4,0,,0.0,0.07,0,860.0,False
+webcreativafb,Dany,Peru,Web Creativa FB,0,0,0,0.0,4632,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+pablo78,Pablo Cesar,Peru,,7,0,1,0.0,4610,0.55,0,1,0.0,0,2,Java,JavaScript,,2,0,,0.0,0.0,0,858.0,False
+davisxz16ky,David Ccahuana Aguilar,Cusco -  Peru,,0,0,0,0.0,4616,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+josepphh,Gerard Joseph Caceres Robles,"Lima, Peru",,8,0,0,0.0,4618,0.63,0,0,0.0,0,0,HTML,C#,Python,5,0,,0.0,0.0,0,44.0,True
+qubitss,Qubit Software Solutions,"Lima, Peru",Qubit Software Solutions,0,0,0,0.0,4616,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+miguelh67,,Peru,Financiera oh,8,0,0,0.0,4621,0.63,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.12,0,101.0,False
+Dedal0,Camilo Galdos AkA Dedalo,Peru,@DeepSecurityResearch ,19,28,30,1.47,4581,1.51,93,5,18.6,3,181,Python,CSS,JavaScript,6,1,J,0.0,0.0,0,10.0,True
+Open-Sec,Open Sec,Peru,Open-Sec,20,43,39,2.15,4581,1.59,71,2,35.5,4,192,Python,SCSS,PowerShell,4,3,J,0.0,0.15,0,187.0,False
+omarbenites,Omar Benites Alfaro,Lima-Peru,METRIKA,31,6,35,0.19,4589,2.47,50,70,0.71,1,126,R,HTML,,2,1,A,0.0,0.65,0,868.0,False
+fericell2909,Marco Estrada Lopez,Peru,,54,6,4,0.11,4591,4.29,23,4,5.75,1,37,JavaScript,PHP,TypeScript,11,1,P,0.0,0.02,43,152.0,False
+derpmagician,derpmagician,Peru,,98,2,4,0.02,4592,7.79,15,37,0.41,1,25,JavaScript,C,HTML,13,0,,0.0,0.02,0,1.0,True
+gyosida,Gianfranco Yosida,"Lima, Peru ",Fz Sports,9,4,0,0.44,4586,0.72,12,7,1.71,1,16,Kotlin,Scala,Java,6,1,J,0.0,0.11,0,324.0,False
+dporrascordova,David Paul Porras Cordova,PERU,ISCODEM SAC,25,0,2,0.0,4586,1.99,9,2,4.5,0,13,Java,HTML,CSS,4,0,,0.0,0.04,2,325.0,False
+jose-vasquez,Jose Vásquez Bustamante,Lima - Peru,,8,1,0,0.12,4608,0.63,5,5,1.0,1,6,HTML,C#,CSS,3,0,,0.0,0.12,3,1833.0,False
+brayanhp,Brayan Huaman Pereda,Lima - Peru,,6,0,0,0.0,4594,0.48,5,19,0.26,0,5,TypeScript,JavaScript,CSS,3,0,,0.0,0.0,0,1537.0,False
+cgigliob,Cesar Giglio Badoino,Peru,,1,0,0,0.0,4606,0.08,4,4,1.0,0,4,,,,0,0,,0.0,0.0,0,1495.0,False
+Devpaz,Paolo Paz,Peru,APJ,43,2,0,0.05,4582,3.43,3,0,3.0,1,5,PHP,Vue,JavaScript,7,0,,0.0,0.02,0,451.0,False
+diegoyep,Diego,"Lima, Peru",,18,0,0,0.0,4601,1.43,2,0,2.0,0,2,CSS,JavaScript,Shell,5,0,,0.0,0.06,0,3059.0,False
+waimaku,Galois Flores Pizango,Peru,SafetyPay,3,0,1,0.0,4591,0.24,1,2,0.5,0,3,PHP,C#,Java,3,0,,0.0,0.0,0,2598.0,False
+hummingalpaca,kuzco,Peru,mobilecoin,0,0,0,0.0,4582,0.0,1,1,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+rhvivancoeffio,Ricardo Vivanco,Peru,MeetGravity,5,0,0,0.0,4597,0.4,1,0,1.0,0,1,C#,,,1,0,,0.0,0.0,1,41.0,True
+dgutierrez-zagile,Diego Gutierrez,"Arequipa, Peru",zAgile Inc.,15,0,0,0.0,4597,1.19,1,3,0.33,0,1,Java,Smarty,,2,0,,0.0,0.0,0,867.0,False
+deperucom,DePeru.com,Peru,,2,0,0,0.0,4592,0.16,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,3462.0,False
+coliveros,Carlos Jesús,Lima/Peru,[Cuenta Personal],2,0,0,0.0,4589,0.16,1,1,1.0,0,1,HTML,PHP,,2,0,,0.0,1.0,2,1386.0,False
+n1rf,Cristhian Laureano,Peru,,2,0,0,0.0,4608,0.16,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,4344.0,False
+Reclutec,Reclutec,"Lima,Peru",,0,0,0,0.0,4605,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ronaldj19,ronald,lima-peru,casa,12,0,0,0.0,4607,0.95,0,0,0.0,0,0,JavaScript,Java,CSS,3,0,,0.0,0.17,0,359.0,False
+qoilabs,Qoilabs,"Lima, Peru",,0,0,0,0.0,4605,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+carlosmelgar,Carlos Melgar,"Lima, Peru",,2,0,0,0.0,4608,0.16,0,1,0.0,0,0,CSS,,,1,0,,0.0,0.0,0,4607.0,False
+rpadilla7,Ronald Padilla,"Lima, Peru",Learning,0,0,0,0.0,4602,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+celpabu,celpabu,Andahuaylas- Peru,Celpabu Corporacion Software Libre,0,0,0,0.0,4587,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jpgomez,Juan Pablo Gomez,"San Borja, Lima, Peru",,3,0,0,0.0,4587,0.24,0,0,0.0,0,0,TypeScript,,,1,0,,0.0,0.0,19,1105.0,False
+ronaldvg93,Ronald Velasqeuz Garcia,Ica Peru,,1,0,0,0.0,4589,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4569.0,False
+DEVstmt,Segundo Medina,Peru,,1,0,0,0.0,4595,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,2624.0,False
+lgallogarcia,Luis Gallo,Peru - Chile - Mexico,Restaurant.pe,0,0,0,0.0,4584,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+mfa216,Michael Flores,Lima - Peru,TakeControl3,1,0,0,0.0,4581,0.08,0,0,0.0,0,0,Python,,,1,0,,0.0,0.0,0,2221.0,False
+ivisa,Iván Igor,"Lima, Peru",,3,0,0,0.0,4585,0.24,0,0,0.0,0,0,HTML,JavaScript,,2,0,,0.0,0.0,0,1420.0,False
+magicyuri,Jorge Luis,"Lima, Peru",,0,0,0,0.0,4583,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+Eisce,César,Peru,,1,0,0,0.0,4582,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4582.0,False
+InternationalPotatoCenter,,Peru,,1,0,0,0.0,4596,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,3715.0,False
+Cuica20,Javier Richard Cuicapuza Antonio,Lima  - Peru,https://twitter.com/JavierCuicapuza,29,9,10,0.31,4576,2.31,40,33,1.21,1,69,Java,TypeScript,Jupyter Notebook,4,1,P,0.0,0.14,17,103.0,False
+dceluis,Luis Sanchez,Peru,,26,76,16,2.92,4563,2.08,18,20,0.9,4,126,Ruby,Python,JavaScript,8,2,J,0.0,0.35,13,230.0,False
+JuanMansilla,Juan Mansilla,PERU,Astay Systems,4,1,0,0.25,4562,0.32,9,1,9.0,1,10,C#,Python,,2,0,,0.0,0.25,0,2074.0,False
+halleyrv,Halley Rios Valenzuela,Lima - Peru,@orsisperu,41,2,1,0.05,4553,3.29,8,10,0.8,1,12,JavaScript,Ruby,Solidity,10,0,,0.0,0.05,32,228.0,False
+juliojguerra,Julio Guerra,Peru,,46,13,1,0.28,4564,3.68,6,6,1.0,1,21,JavaScript,TypeScript,HTML,6,0,,0.0,0.0,40,2.0,True
+wsaccaco,Waldo J. Saccaco,Peru,@ScotiabankPerú,37,0,0,0.0,4565,2.96,5,6,0.83,0,5,JavaScript,TypeScript,Java,8,0,,0.0,0.05,55,54.0,True
+CMedinaS7,Carlos Medina Silvestre,Trujillo - Peru,Everis,18,1,3,0.06,4559,1.44,5,1,5.0,1,12,Java,HTML,C#,8,0,,0.0,0.0,0,1480.0,False
+NetRevolutions,Jose Rodriguez,Peru,Globant,22,4,0,0.18,4575,1.76,4,2,2.0,1,8,JavaScript,HTML,TypeScript,5,0,,0.0,0.14,0,395.0,False
+royheberth,Roy Heberth,Peru,,1,0,0,0.0,4576,0.08,3,8,0.38,0,3,Dart,,,1,0,,0.0,0.0,0,1178.0,False
+gabrieladt,Gabriel Ferreira,Peru,Yape,16,4,2,0.25,4554,1.28,2,2,1.0,1,10,Shell,Ruby,HTML,5,1,J,0.0,0.06,0,34.0,True
+dysabel12,Diana Llanos,Lima Peru,,23,1,3,0.04,4559,1.84,2,0,2.0,1,9,HTML,JavaScript,C#,7,0,,0.0,0.04,0,1916.0,False
+AlieDog,Alien Dog,"Lima, Peru",,1,0,0,0.0,4562,0.08,2,5,0.4,0,2,PHP,,,1,0,,0.0,0.0,0,3762.0,False
+aunesto17,Alexander Baylon,Arequipa/Peru,UCSP,48,0,0,0.0,4553,3.85,1,10,0.1,0,1,C++,C,JavaScript,6,0,,0.0,0.02,3,198.0,False
+jnandorc,Javier Fernando Rojas Chavez,Peru,G4S PERU,5,0,0,0.0,4553,0.4,1,7,0.14,0,1,PHP,,,1,0,,0.0,0.4,0,1392.0,False
+poolpfc,Paul Flores Cruz,Cusco - Peru,Dev In Peru,2,0,0,0.0,4575,0.16,1,1,1.0,0,1,HTML,,,1,0,,0.0,0.0,0,3500.0,False
+yarovi,yasmani,Peru,NA,89,2,0,0.02,4574,7.1,1,8,0.12,1,3,Java,HTML,JavaScript,6,0,,0.0,0.04,21,14.0,True
+ylcompec,YVAN LOPEZ,"Lima, Peru",COMPEC SA,0,0,0,0.0,4573,0.0,1,2,0.5,0,1,,,,0,0,,0.0,0.0,0,,False
+LuisEspinoza212,Luis Espinoza,"Lima, Peru",,3,0,0,0.0,4548,0.24,1,0,1.0,0,1,C#,JavaScript,,2,0,,0.0,0.33,1,208.0,False
+elwolfy,Jorge Valenzuela,"Lima, Peru",@cpstech,22,0,0,0.0,4560,1.76,1,3,0.33,0,1,Java,TypeScript,,2,0,,0.0,0.0,37,62.0,True
+rpadilla-it,Ronald Padilla,Peru,Student,2,0,0,0.0,4572,0.16,0,0,0.0,0,0,CSS,,,1,0,,0.0,0.0,0,1947.0,False
+d0tcom9,Andres Espada,Peru,,11,0,0,0.0,4569,0.88,0,0,0.0,0,0,HTML,Python,CSS,4,0,,0.0,0.0,0,815.0,False
+trifolius,Heinrrich Rodolfo Facho Verastegui,Peru,---,0,0,0,0.0,4565,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jorgelu,Jorge Lu,"Lima, Peru",ScreenMedia,1,0,0,0.0,4563,0.08,0,0,0.0,0,0,,,,0,0,,0.0,1.0,0,4061.0,False
+Yesbuddy,Manuel,Peru,,0,0,0,0.0,4559,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jarroyoo,Jose Carlos,Peru,HUNU HANA,1,0,0,0.0,4563,0.08,0,0,0.0,0,0,CSS,,,1,0,,0.0,0.0,0,4382.0,False
+miguelgonzalesj,Miguel Angel Gonzales Jimenez,Peru,Blacktech IA,0,0,0,0.0,4575,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+edgarmedina20,Edgar,Callao Peru,,0,0,0,0.0,4560,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+eBuho,eBuho,Lima Peru, eBuho Consulting SAC,5,0,0,0.0,4567,0.4,0,0,0.0,0,0,Java,Groovy,,2,0,,0.0,0.2,0,3718.0,False
+dachc,Duilio Andre Chavez Cuarite,Peru,IES Pedro P. Diaz,5,0,0,0.0,4564,0.4,0,0,0.0,0,0,Python,,,1,0,,0.0,0.0,0,928.0,False
+Artdamo,Daniel Morante,Peru,Mejorandolaclase,0,0,0,0.0,4568,0.0,0,3,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+julioxp1429,Julio Baraybar,"peru, lima , chorrillos",Induquimica,2,0,0,0.0,4566,0.16,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4163.0,False
+DannyJuvet,,"Lima, Peru",,0,0,0,0.0,4558,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jonathanupt,JONATHAN BLANCO ALAVE,PERU / TACNA,TROVA STUDIOS S.A.C.,2,0,0,0.0,4572,0.16,0,0,0.0,0,0,Java,,,1,0,,0.0,0.0,0,562.0,False
+JorgeMorenoSialer,Jorge Armando Moreno Sialer,"Lima, Peru",,2,0,0,0.0,4559,0.16,0,2,0.0,0,0,JavaScript,Java,,2,0,,0.0,0.0,0,3349.0,False
+jose-alban,Jose Alban,"La Molina, Lima, Peru",AC&DE S.A.C.,4,0,0,0.0,4556,0.32,0,2,0.0,0,0,PHP,JavaScript,HTML,4,0,,0.0,0.5,0,1967.0,False
+mlsilvaz,Marco Silva,Peru,,16,1,2,0.06,4575,1.28,0,3,0.0,1,5,Java,JavaScript,Visual Basic .NET,7,0,,0.0,0.19,1,66.0,True
+mamboperu,COMPEC,Peru,,0,0,0,0.0,4553,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+papitis,Angelo Enriquez,Peru,,0,0,0,0.0,4550,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+devupc,UPC,"Lima, Peru",UPC,1,0,1,0.0,4564,0.08,0,0,0.0,0,2,CSS,,,1,0,,0.0,1.0,0,4537.0,False
+jrojasmesias,Juan Rojas,"Lima, Peru",UPC,1,0,0,0.0,4561,0.08,0,0,0.0,0,0,C#,,,1,0,,0.0,0.0,0,4561.0,False
+bitsmike,Bitsmike,Peru,micamisoft,16,0,4,0.0,4552,1.28,0,3,0.0,0,8,Python,Blade,HTML,6,0,,0.0,0.19,0,1926.0,False
+albans07,Miguel Albán,Lima- Peru,,0,0,0,0.0,4571,0.0,0,3,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ArielNoriega,Ariel,Peru,Enverdece,0,0,0,0.0,4553,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+nromandino,Dino,PUNO PERU,HCC-GAMES,1,0,0,0.0,4549,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4549.0,False
+pacojaco,Francisco Riccio,Peru,,2,0,0,0.0,4576,0.16,0,1,0.0,0,0,Go,,,1,0,,0.0,0.0,0,842.0,False
+vardeveloper,Victor Alcantara,Lima - Peru,VARDEVELOPER,31,0,13,0.0,4558,2.48,0,1,0.0,0,26,HTML,JavaScript,Python,9,0,,0.0,0.58,27,52.0,True
+yummta,Paul Portillo,"Lima, Peru",@Drafteam,30,1,7,0.03,4518,2.42,27,14,1.93,1,42,JavaScript,Ruby,C++,6,0,,0.0,0.07,269,1150.0,False
+madrazo,Carlos Madrazo,"Lima, Peru",Bamtang,8,10,0,1.25,4538,0.64,9,12,0.75,2,19,Haxe,C++,,2,2,R,0.0,0.38,8,199.0,False
+saravia,saravia,"Lima,Peru",,39,0,0,0.0,4521,3.15,9,2,4.5,0,9,Java,PHP,CSS,3,0,,0.0,0.0,0,3741.0,False
+xdainy21xx,dannycode,Lima Peru,dannnycode,8,0,0,0.0,4538,0.64,8,14,0.57,0,8,CSS,HTML,,2,0,,0.0,0.0,0,2154.0,False
+jlazoirus,Jonathan Lazo,"Lima, Peru",,13,1,1,0.08,4523,1.05,7,4,1.75,1,10,JavaScript,HTML,TypeScript,5,0,,0.0,0.15,0,999.0,False
+GerardoReanio,GerardoReanio,Peru,Core Business Group,9,2,0,0.22,4529,0.73,4,7,0.57,1,6,C#,Dockerfile,Python,6,0,,0.0,0.0,0,1573.0,False
+JeanDevonne,Jean León,"Lima, Peru",me,26,22,4,0.85,4542,2.09,4,19,0.21,2,34,JavaScript,HTML,TypeScript,8,1,J,0.0,0.38,27,102.0,False
+gadolfolozano,Adolfo Lozano Mendez,Peru,,29,1,0,0.03,4527,2.34,2,1,2.0,1,3,Swift,Java,Kotlin,5,0,,0.0,0.03,0,720.0,False
+eriksteinebach,Erik Steinebach,"Lima, Peru",,3,0,0,0.0,4524,0.24,2,0,2.0,0,2,HTML,C#,CSS,3,0,,0.0,0.0,0,549.0,False
+jmlopez2332,Juan Manuel Cabanillas Lopez,Trujillo / Peru,,7,0,0,0.0,4517,0.57,2,2,1.0,0,2,PHP,C#,CSS,4,0,,0.0,0.0,0,2131.0,False
+lionelgt,Lionel Gonzales,Lima - Peru,,11,4,1,0.36,4526,0.89,2,0,2.0,1,8,Java,TypeScript,Kotlin,3,1,J,0.0,0.18,1,675.0,False
+reco92,Rodrigo Corrales,Peru,,18,0,0,0.0,4517,1.45,1,0,1.0,0,1,Python,JavaScript,HTML,4,0,,0.0,0.06,28,451.0,False
+witperu,WIT Perú,"Lima, Peru",,1,0,1,0.0,4529,0.08,1,0,1.0,0,3,,,,0,0,,0.0,0.0,0,3849.0,False
+crossderek,Derek Cross,"Lima, Peru",Netscore.pe,8,1,66,0.12,4522,0.65,1,1,1.0,1,134,Python,DIGITAL Command Language,HTML,3,0,,0.0,0.12,0,3004.0,False
+ehuarcayal,Erick H.,peru,,9,0,0,0.0,4544,0.72,1,0,1.0,0,1,Java,TypeScript,Dockerfile,6,0,,0.0,0.0,1,1061.0,False
+carlosmoralesla,Carlos Morales,Peru,You Peru Tech,11,0,7,0.0,4544,0.88,1,1,1.0,0,15,Ruby,PHP,,2,0,,0.0,0.0,0,303.0,False
+myfcr,Fernando C R,"Ica, Peru",,1,0,0,0.0,4544,0.08,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,4544.0,False
+Dr4nzer,Julio Quispe Escobar,Miraflores - Lima - Peru,URP,5,0,1,0.0,4542,0.4,1,2,0.5,0,3,Java,HCL,,2,0,,0.0,0.0,0,35.0,True
+mapcity-peru,Mapcity.com Perú S.A.C,Lima Peru,,0,0,0,0.0,4541,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+cesarreynab,Cesar Reyna,"Lima, Peru",,0,0,0,0.0,4519,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+alexvaldez24,Alexander Valdez,"Lima,Peru",ROJ,6,0,0,0.0,4521,0.48,0,0,0.0,0,0,Java,C,CSS,3,0,,0.0,0.67,0,3538.0,False
+cpuellesc,Christian Leonardo Puelles Cáceres,Lima - PERU,,1,0,0,0.0,4523,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,1453.0,False
+robertoprincipe,ROBERTO PRINCIPE,"Lima, Peru",CLI,1,0,0,0.0,4538,0.08,0,0,0.0,0,0,TypeScript,,,1,0,,0.0,0.0,0,1886.0,False
+SDIKEY,Alex-Slater,Peru,FreeSoft,2,0,0,0.0,4537,0.16,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,4406.0,False
+pedominguezbr,,"Lima, Peru",,27,1,2,0.04,4532,2.17,0,1,0.0,1,5,HCL,C#,Go,10,0,,0.0,0.19,1,680.0,False
+aitorxs,Jose Armando Machuca,PERU,@MACHFREE ,0,0,0,0.0,4531,0.0,0,5,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+ericson123,,Peru,EC ELECTRONIC DEVELOPER,3,0,0,0.0,4529,0.24,0,0,0.0,0,0,SWIG,,,1,0,,0.0,0.0,0,2162.0,False
+ManuelBarruetoG,Manuel Barrueto Grijalva,Peru,Ninguna,0,0,0,0.0,4544,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+tabatilla,Anthony Vasquez,Peru,,4,1,0,0.25,4535,0.32,0,1,0.0,1,1,JavaScript,HTML,,2,0,,0.0,0.0,7,1049.0,False
+uribecesar,Uribe Cesar,Peru,,8,0,0,0.0,4543,0.64,0,0,0.0,0,0,HTML,SCSS,GDScript,3,0,,0.0,0.25,0,86.0,True
+julio31529,Julio Jesus Ticona Quispe,Arequipa-Peru,Student of Computer Science,1,0,0,0.0,4518,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4474.0,False
+polimonada,paul piscoya,lima peru,,8,0,0,0.0,4518,0.65,0,0,0.0,0,0,HTML,CSS,,2,0,,0.0,0.0,0,3034.0,False
+juniorc,Junior Cupe,"Arequipa, Peru",,0,0,0,0.0,4518,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jdreload007,Jonathan,Peru,Media Lab,0,0,0,0.0,4546,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+carloscpv,Carlos Cruzado,Lima Peru,Zaurak Consulting,2,0,0,0.0,4525,0.16,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,1480.0,False
+akar003,Alexander Angulo Kcana,Peru,Puridiom-PE S.A.C.,2,0,0,0.0,4527,0.16,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,1355.0,False
+laricoDGT,Larico,Peru,,7,3,1,0.43,4525,0.56,0,0,0.0,1,5,Shell,SCSS,JavaScript,4,1,J,0.0,0.14,0,211.0,False
+edeustua,J. Emiliano Deustua,"Lima, Peru",@examol-corp,13,16,2,1.23,4497,1.06,29,82,0.35,3,49,Python,Shell,TeX,7,3,O,0.0,0.31,0,134.0,False
+josemiguelgh,Jose Miguel Gutierrez Hilaccama,"Lima, Peru",Avantica,9,6,7,0.67,4510,0.73,6,3,2.0,1,26,C#,JavaScript,HTML,3,1,G,0.0,0.0,1,1959.0,False
+hdgarzon,Henry Garzon,Lima Peru,,11,0,0,0.0,4509,0.89,5,7,0.71,0,5,JavaScript,HTML,Vue,5,0,,0.0,0.0,0,114.0,False
+erickgn,Erick Gomez-Nieto,"Arequipa, Peru",,1,1,0,1.0,4489,0.08,5,1,5.0,1,6,HTML,,,1,0,,0.0,0.0,0,1972.0,False
+ghuachins,Gian Huachin,"Lima, Peru",Vivela,9,3,4,0.33,4504,0.73,4,13,0.31,1,15,PHP,TypeScript,Shell,6,1,R,0.0,0.0,10,1136.0,False
+tekken387,David Parra,Peru,,6,1,1,0.17,4493,0.49,4,3,1.33,1,7,Java,JavaScript,,2,0,,0.0,0.0,0,2443.0,False
+jmme21,jmelendez - CARETA,Peru,,5,0,0,0.0,4502,0.41,4,1,4.0,0,4,C++,Astro,CSS,4,0,,0.0,0.0,2,110.0,False
+jgarbora,Juan Pablo Garbora,Peru,Attune IOT,6,1,0,0.17,4496,0.49,4,4,1.0,1,5,Java,Shell,,2,0,,0.0,0.0,0,519.0,False
+alexandr28,alexandr campos ,Trujillo-Peru,@inguzdev,42,1,0,0.02,4513,3.4,4,9,0.44,1,5,Java,JavaScript,Dart,7,0,,0.0,0.17,1,75.0,True
+eloyina,Elizabeth Morales Muñoz,Peru,@perucolors @datasoftteam,38,5,3,0.13,4511,3.07,3,10,0.3,1,14,Python,C++,Jupyter Notebook,6,1,J,0.0,0.0,1,866.0,False
+christianmisaico,Christian Misaico,Peru,Freelance,8,1,3,0.12,4511,0.65,2,2,1.0,1,9,Java,JavaScript,C#,3,0,,0.0,0.0,0,4025.0,False
+sulacomake,Andres V,"Lima, Peru",Google Cloud,38,1,1,0.03,4493,3.09,2,17,0.12,1,5,Python,Jupyter Notebook,JavaScript,4,0,,0.0,0.68,1,201.0,False
+andreproxd,André Morillas,"Trujillo, Peru",am Comunicaciones,2,0,0,0.0,4505,0.16,1,1,1.0,0,1,PHP,HTML,,2,0,,0.0,0.5,0,3108.0,False
+afmancilla,Alex Mancilla Antay,Peru,APINauta,13,1,1,0.08,4500,1.05,1,0,1.0,1,4,TypeScript,HTML,Java,3,0,,0.0,0.23,0,205.0,False
+caposinformaticos,Roy,Lima - Peru,Capos Informaticos,2,0,0,0.0,4496,0.16,0,1,0.0,0,0,,,,0,0,,0.0,0.5,0,4496.0,False
+FloresDavalos,Flores.Davalos,"Lima, Peru",,1,0,0,0.0,4515,0.08,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,1892.0,False
+DavidUntama,David Untama,Peru,,7,0,0,0.0,4505,0.57,0,0,0.0,0,0,TypeScript,JavaScript,Python,4,0,,0.0,0.0,0,462.0,False
+ascadsemastec,Mag,Peru,,0,0,0,0.0,4514,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+javiertacna,javier machicado,Tacna - Lima - Peru,,3,0,0,0.0,4510,0.24,0,0,0.0,0,0,HTML,PHP,JavaScript,3,0,,0.0,0.33,0,3716.0,False
+Edgar12345,Edgar,Lima - Peru,Atento,0,0,0,0.0,4510,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+apizarroe,Aldo Pizarro Espinoza,Lima - Peru,,11,2,4,0.18,4515,0.89,0,2,0.0,1,10,Jupyter Notebook,Python,Shell,8,1,J,0.0,0.64,15,94.0,False
+desarrollolucas,desarrollolucas,PERU,desarrollolucas,0,0,0,0.0,4495,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+EducloudWeb,EDUCLOUD,"Trujillo,La Libertad, Peru",,1,0,0,0.0,4489,0.08,0,0,0.0,0,0,,,,0,0,,0.0,1.0,0,4255.0,False
+joaquin2121,joaquin,peru,casa,1,0,0,0.0,4514,0.08,0,0,0.0,0,0,Java,,,1,0,,0.0,0.0,0,4486.0,False
+macespinoza,Miguel Cotrina,"Lima, Peru",DigisoftPeru,28,76,69,2.71,4486,2.28,57,1,57.0,5,271,Jupyter Notebook,Java,Python,5,3,J,0.0,0.04,1,64.0,True
+jaime-olivares,Jaime Olivares,"Lima, Peru","Efferent, Inc.",10,680,161,68.0,4471,0.82,33,1,33.0,6,1035,C#,JavaScript,HTML,4,2,J,0.0,1.0,28,279.0,False
+henrychavez,Henry Chavez,Peru,Bytpher,13,158,59,12.15,4484,1.06,27,14,1.93,3,303,TypeScript,JavaScript,CSS,5,1,J,0.0,0.31,77,506.0,False
+erajuan,Juan Eracleo Huamani Mendoza,Cusco - Peru,,10,0,5,0.0,4466,0.82,15,4,3.75,0,25,PHP,Go,HTML,4,0,,0.0,0.1,0,167.0,False
+elardpretto,Tomas Flores,"Lima, Peru",,1,0,0,0.0,4484,0.08,6,12,0.5,0,6,,,,0,0,,0.0,0.0,0,4434.0,False
+HelloiOSPeru,Mobile Training Center Peru,Peru,Online Studio Productions,0,0,0,0.0,4473,0.0,5,0,5.0,0,5,,,,0,0,,0.0,0.0,0,,False
+wilsonn,WHNM,Veintiséis de Octubre - Piura - Peru ,,34,0,1,0.0,4459,2.78,4,1,4.0,0,6,Java,JavaScript,HTML,7,0,,0.0,0.15,5,41.0,True
+onasunnymorning,Geoff,Peru,Magic Inc,21,3,0,0.14,4470,1.71,4,8,0.5,1,7,Go,Smarty,Python,7,1,J,0.0,0.76,105,16.0,True
+freddy120,Freddy Mendoza Ticona,Lima - Peru,Universidad Nacional de Ingenieria (UNI),50,8,11,0.16,4481,4.07,3,4,0.75,1,33,Jupyter Notebook,C,C++,11,1,H,0.0,0.26,1,200.0,False
+cristhianjdv,Christian De la Cruz V.,Peru,Diseño y Sistemas Peru EIRL,3,9,0,3.0,4460,0.25,3,0,3.0,2,12,PHP,HTML,,2,1,J,0.0,0.0,0,63.0,True
+jlurbina,,Lima-Peru,,2,0,0,0.0,4456,0.16,2,3,0.67,0,2,Python,,,1,0,,0.0,0.0,0,101.0,False
+sllona,Sofia LLona,Peru,Avantica Technologies,0,0,0,0.0,4477,0.0,2,0,2.0,0,2,,,,0,0,,0.0,0.0,0,,False
+jh3sus,jesus alberto gaspar ore,Peru,estudiante,2,2,0,1.0,4484,0.16,1,0,1.0,1,3,,,,0,0,,0.0,0.0,0,4482.0,False
+dandres14,Andrés Carpio,"Lima, PERU",Softmarkperu,1,0,0,0.0,4460,0.08,1,0,1.0,0,1,Java,,,1,0,,0.0,0.0,0,4315.0,False
+lllerena,Luis Llerena Alarcon,Peru,,2,0,0,0.0,4467,0.16,1,0,1.0,0,1,Python,,,1,0,,0.0,0.0,0,1795.0,False
+iamvictormh,VictorMH,Peru,,3,1,0,0.33,4457,0.25,1,3,0.33,1,2,JavaScript,,,1,0,,0.0,0.0,0,57.0,True
+jlortizcastillo,Jorge Luis Ortiz Castillo,"Lima, Peru",,10,0,0,0.0,4476,0.82,1,37,0.03,0,1,JavaScript,Java,HCL,6,0,,0.0,0.0,25,70.0,True
+PaginaswebPeru,Paginas Web Peru,Peru,PaginasWeb.pe,18,0,0,0.0,4475,1.47,1,0,1.0,0,1,Java,,,1,0,,0.0,0.0,0,4443.0,False
+secesac,LyonSoft,Peru,,0,0,0,0.0,4472,0.0,1,0,1.0,0,1,,,,0,0,,0.0,0.0,0,,False
+lecp1530,Luis Enrique Chavez,"Lima, Peru",,13,0,2,0.0,4472,1.06,0,1,0.0,0,4,HTML,Jupyter Notebook,Python,3,0,,0.0,0.31,0,36.0,True
+leongeyer,,Peru,PUCP,2,0,0,0.0,4480,0.16,0,1,0.0,0,0,HTML,,,1,0,,0.0,0.0,0,54.0,True
+psalamon,Peter Salamon,Peru,Publimail,0,0,0,0.0,4476,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+alexvargasdiaz,Alex Vargas Diaz,"Peru, Lima",,2,0,0,0.0,4467,0.16,0,0,0.0,0,0,HTML,TypeScript,,2,0,,0.0,0.0,0,259.0,False
+dalvy,Ever Vidal,Peru,,5,0,0,0.0,4470,0.41,0,0,0.0,0,0,xBase,Vue,HTML,3,0,,0.0,0.2,0,1756.0,False
+EM4,EM4,Peru,MR System Solutions,1,0,0,0.0,4478,0.08,0,1,0.0,0,0,C,,,1,0,,0.0,1.0,0,3745.0,False
+sebasiglo,Sebastian Iglesias Osores,Peru,,0,0,0,0.0,4471,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+evelyn2727,Evelyn Lizárraga,PERU,,10,0,0,0.0,4457,0.82,0,0,0.0,0,0,Java,,,1,0,,0.0,0.0,0,460.0,False
+alexisVidal29,Alexis Vidal,"Piura, Peru",,4,0,0,0.0,4486,0.33,0,0,0.0,0,0,Java,,,1,0,,0.0,0.0,3,3761.0,False
+rubensinc,Ruben Sandoval,"Lima, Peru",,0,0,0,0.0,4481,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+aliciacasuso,Alicia,"Lima, Peru",EFL,0,0,0,0.0,4471,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+skadevg,Jorge Jaulis,"Lima, Peru",,2,0,1,0.0,4483,0.16,0,0,0.0,0,2,Java,JavaScript,,2,0,,0.0,0.0,0,3563.0,False
+yancarlosalexander,Yan Carlos Alexander,Juliaca - Peru,Codewebnut,5,2,0,0.4,4481,0.41,0,0,0.0,1,2,,,,0,0,,0.0,0.0,0,4331.0,False
+ronald1781,RonaldRamosG.,Apurimac Peru,,43,0,0,0.0,4460,3.52,0,8,0.0,0,0,Java,PHP,HTML,5,0,,0.0,0.12,1,110.0,False
+renelmedina,Renel Medina Ancalle,Arequipa - Peru,RECAMEDI,3,0,0,0.0,4483,0.24,0,0,0.0,0,0,CSS,,,1,0,,0.0,0.0,0,2482.0,False
+CriscelyLP,Criscely Luján Paredes,Lima - Peru,Université Paris Saclay,11,4,0,0.36,4430,0.91,54,69,0.78,1,58,R,HTML,,2,1,A,0.0,0.09,0,434.0,False
+android-sos,Samuel Ospina,"Peru, Lima.",NTTData,13,10,3,0.77,4454,1.07,35,26,1.35,2,51,JavaScript,TypeScript,PHP,4,2,R,0.0,0.08,27,1146.0,False
+jjhoncv,Jhonnatan,Peru,Grupo Comercio,78,2,2,0.03,4435,6.42,17,1,17.0,1,23,JavaScript,TypeScript,HTML,9,0,,0.0,0.03,84,41.0,True
+lvidal1,Leonardo Vidal,"Lima, Peru",,61,2,6,0.03,4432,5.02,13,7,1.86,1,27,JavaScript,TypeScript,Python,8,0,,0.0,0.1,20,485.0,False
+jose-g,Jose Guerrero,Peru,international potato center,21,6,5,0.29,4440,1.73,10,1,10.0,1,26,Pascal,Java,C++,9,1,A,0.0,0.0,9,4.0,True
+lensanag,Lenin Sanchez,Peru,,8,3,2,0.38,4439,0.66,5,2,2.5,1,12,JavaScript,PHP,Shell,5,1,J,0.0,0.12,0,1293.0,False
+duilmarc,Franco Duilmarc Chavez Ponce,"Arequipa, Peru",Ravn,32,24,1,0.75,4429,2.64,3,9,0.33,1,29,JavaScript,Python,TypeScript,7,0,,0.0,0.03,51,757.0,False
+nc-36,Nícolas Castillo,"Lima, Peru",,1,9,1,9.0,4436,0.08,2,0,2.0,1,13,C,,,1,1,J,0.0,1.0,1,1870.0,False
+EdyMoar,Edith Moarri,Peru,www.just3guys.net,3,0,0,0.0,4435,0.25,2,9,0.22,0,2,Jupyter Notebook,HTML,,2,0,,0.0,0.33,0,912.0,False
+YubinunnieWG,Yubinunnie,peru,JYPnation,0,0,0,0.0,4428,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+lolaya,Luigui Olaya,Peru,Luigui Olaya,3,0,0,0.0,4435,0.25,0,0,0.0,0,0,JavaScript,C#,,2,0,,0.0,0.0,0,1205.0,False
+marantk,marantk,Peru,,1,0,0,0.0,4433,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4378.0,False
+ego1520,Eduardo,Peru,Ipsos Perú,2,0,0,0.0,4434,0.16,0,0,0.0,0,0,,,,0,0,,0.0,1.0,0,2756.0,False
+PaBalderaA,Pedro A. Baldera Aguayo,Lima - Peru,Universidad Nacional de Ingenieria (UNI),1,0,0,0.0,4431,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4399.0,False
+RenzoToscanilr,Renzo Toscani,Peru,Miau Inc.,0,0,0,0.0,4435,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+jasonbleid,Jason Anchiraico,Peru,Plexzi,0,0,0,0.0,4432,0.0,0,1,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+Ablch,Abel,Peru,ID7,1,0,0,0.0,4435,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,3784.0,False
+marozum,marozum,"Lima, Peru",Personal,2,0,0,0.0,4444,0.16,0,0,0.0,0,0,Java,,,1,0,,0.0,0.0,0,3199.0,False
+victormas65,Victor A. Mas Avalo,Lima-Peru,Personal,3,0,0,0.0,4442,0.25,0,5,0.0,0,0,Python,Jupyter Notebook,,2,0,,0.0,0.0,0,447.0,False
+omarsax,Omar Hermógenes Sasari Ruidias,Peru,Product Designer/ Frontend / Freelance,3,0,0,0.0,4431,0.25,0,0,0.0,0,0,HTML,,,1,0,,0.0,0.33,0,981.0,False
+jushua,,Lima Peru,,6,0,0,0.0,4431,0.49,0,1,0.0,0,0,Python,JavaScript,,2,0,,0.0,0.0,0,960.0,False
+windarql,Darwin ,Peru,,0,0,0,0.0,4425,0.0,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,,False
+dllanos,Daniel,Puno Peru,Caja Los Andes,2,0,0,0.0,4428,0.16,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,4422.0,False
+irr256,Isaac Robles,"Lima, Peru",,1,0,0,0.0,4427,0.08,0,0,0.0,0,0,,,,0,0,,0.0,0.0,0,2028.0,False

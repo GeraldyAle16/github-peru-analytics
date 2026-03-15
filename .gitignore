@@ -1,0 +1,7 @@
+﻿# Environments
+.env
+.venv
+
+# Byte-compiled
+__pycache__/
+*.py[cod]

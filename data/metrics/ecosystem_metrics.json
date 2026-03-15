@@ -1,0 +1,41 @@
+{
+    "total_developers": 1000,
+    "total_repositories": 12914,
+    "total_stars": 16535,
+    "avg_repos_per_user": 12.91,
+    "active_developer_pct": 14.3,
+    "avg_account_age_days": 4963.24,
+    "most_popular_languages": {
+        "JavaScript": 140,
+        "Java": 110,
+        "PHP": 77,
+        "Python": 75,
+        "HTML": 61,
+        "TypeScript": 43,
+        "C#": 36,
+        "CSS": 21,
+        "Ruby": 21,
+        "Jupyter Notebook": 19
+    },
+    "industry_distribution": {
+        "Unknown": 11915,
+        "Information and communication": 653,
+        "Education": 80,
+        "Arts, entertainment and recreation": 61,
+        "Professional, scientific activities": 58,
+        "Financial and insurance activities": 30,
+        "Wholesale and retail trade": 28,
+        "Manufacturing": 25,
+        "Public administration and defense": 18,
+        "Human health and social work": 13,
+        "Transportation and storage": 9,
+        "Accommodation and food services": 6,
+        "Agriculture, forestry and fishing": 5,
+        "Administrative and support activities": 4,
+        "Electricity, gas, steam supply": 3,
+        "Other service activities": 2,
+        "Activities of households": 2,
+        "Water supply; sewerage": 1,
+        "Mining and quarrying": 1
+    }
+}
