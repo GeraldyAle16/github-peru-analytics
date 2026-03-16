@@ -16,5 +16,8 @@ class RepoExtractor:
             return ""
 
     def get_repo_languages(self, owner: str, repo: str) -> dict:
-        result = self.client.make_request(f"repos/{owner}/{repo}/languages")
-        return result if result else {}
+        try:
+            result = self.client.make_request(f"repos/{owner}/{repo}/languages")
+            return result if result else {}
+        except Exception:
+            return {}
